@@ -1,6 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [First Chapter](chapter1.md)
-* [2nd Chapter](2nd-chapter.md)
+* [1st\_연립방정식\_가우스소거법](chapter1.md)
+* [2nd\_LU분할](2nd-chapter.md)
 

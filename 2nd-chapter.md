@@ -27,6 +27,8 @@ $$
 
 $$ E_{21}E_{21}^{-1} = I $$
 
+---
+
 #### LU는
 
 $$
@@ -47,7 +49,7 @@ $$
 = Lower Triangular matrix = L 
 $$ 
 
-
+---
 ### LU 예시 
 
 $$
@@ -67,7 +69,7 @@ $$
 
 
 
-
+> ? Diagonal matrix(D) =  A = LU = LDU
 
 
 
