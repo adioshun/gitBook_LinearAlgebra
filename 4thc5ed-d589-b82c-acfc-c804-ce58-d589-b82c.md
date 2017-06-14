@@ -8,3 +8,4 @@ $$ AA^{-1} = A^{-1}A = I $$
 - 만약, 가우스 소거법 결과과 N 개의 피폿을 생성할때 (=가우스 소거법이 가능하다)
 - The inverse is unique
 - if $$ A^{-1} $$ exists, Ax = b => $$AA^{-1}x = A^{-1}b $$
+- Assume that there is a non-zero vector X such that Ax = 0 (b=0) 
