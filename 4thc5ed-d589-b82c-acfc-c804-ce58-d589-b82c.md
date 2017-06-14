@@ -27,3 +27,18 @@ $$ (AB)^T = B^TA^T$$
 $$(A^{-1})^T = (A^T)^{-1} $$
 
 
+
+###### Symmetric Matrix (대칭행렬)
+$$ A^T = A $$ : 전치해도 값이 같다. 
+
+- if A is symmetrix and invertible, then $$ A^{-1}$$ is too 
+
+
+###### Correlation Matrix 
+- 자신과 관련된 정보 출력 
+
+$$ R = A^TA$$
+
+$$ R^T = R $$
+
+> 자신과 자신의 전치와의 곱은 내적과 같음 
