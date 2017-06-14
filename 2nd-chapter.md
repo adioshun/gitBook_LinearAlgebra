@@ -72,8 +72,12 @@ $$
 > ? Diagonal matrix(D) =  A = LU = LDU
 
 
-# Pivoting = Row Exchange을 행렬로 표시 
-- Permutation maxtrix = $$p_{21} $$ = 2번행렬와 1번 행렬을 서로 바꿈 
+# Permutation matrix 
+- Pivoting = Row Exchange을 행렬로 표시 
+- $$p_{21} $$ = 2번행렬와 1번 행렬을 서로 바꿈 
+- has the same rows with Identity Matrix 
+    - There is a single '1' in every rows and column
+    
 $$
 \begin{bmatrix}0 & 1 & 0 \\1 & 0 & 0  \\ 0 & 0 & 1  \end{bmatrix}
 $$
