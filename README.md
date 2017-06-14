@@ -1,3 +1,1 @@
-# My Awesome Book
-
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+  - [선형대수학 강좌](https://www.youtube.com/playlist?list=PLSN_PltQeOyjDGSghAf92VhdMBeaLZWR3): 이상화 교수, [[교재]](http://www.kocw.net/home/search/kemView.do?kemId=977757)
