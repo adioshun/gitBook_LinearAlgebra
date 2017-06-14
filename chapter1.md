@@ -36,3 +36,6 @@ Matrix로 표현 = upper Triangular U
 - pivot에 `0`이 존재 하여 가우스 소거법을 사용 못할경우, 순서를 바꾸어 문제 해결 --> pivoting 
 
 ## 1.4 Matrix Multiplication 
+
+
+
