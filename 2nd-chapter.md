@@ -48,6 +48,21 @@ $$
 $$ 
 
 
+### LU 예시 
+
+$$
+A = \begin{bmatrix} 1 & 2 \\ 3 & 8 \end{bmatrix} 
+$$
+
+2번식 - (3번식) x 1
+
+$$
+U = \begin{bmatrix} 1 & 2 \\ 0 & 2 \end{bmatrix} 
+$$
+
+$$
+L = \begin{bmatrix} 1 & 0 \\ 3 & 1 \end{bmatrix} 
+$$
 
 
 
@@ -69,6 +84,14 @@ $$
 
 
 
-## 1.5 Triangular Factors   
+
+
+
+
+
+
+
+
+
 
 
