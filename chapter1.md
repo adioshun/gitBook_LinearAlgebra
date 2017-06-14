@@ -26,7 +26,13 @@ Singular case
 
 ## 가우스 소거법 
 - 연립 방정식을 푸는 방법 
+- 미지수의 갯수와 방정식의 갯수가 같은 경우 
 
 `All pivots are non-zero -> G.E has a unique solution`
 
 Matrix로 표현 = upper Triangular U 
+
+## Breakdown 
+- pivot에 `0`이 존재 하여 가우스 소거법을 사용 못할경우, 순서를 바꾸어 문제 해결 --> pivoting 
+
+## 1.4 Matrix Multiplication 
