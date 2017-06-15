@@ -1,6 +1,6 @@
 # Chapter 2. Vector Space 
 
-무한히 많은 해집합은 백터 스페이스를 이루고 있으며, 그 해집합을 나타내기 위하여 백터 스페이스를 알아야 함
+무한히 많은 해집합은 백터 스페이스를 이루고 있으며, 그 해집합을 표현하기 위하여 백터 스페이스를 알아야 함
 
 ## 2.1 V.S / Sub Space 
 
@@ -23,3 +23,7 @@ Subset of the whole V.S that satisfies the condition of VS
 
 eg. Lower triangular mat. in $${R^n}^2$$
 
+
+
+## Column Space of A (열백터) 
+> 정의 : set of all linear combinations from column vector  in A 
