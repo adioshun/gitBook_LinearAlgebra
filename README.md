@@ -1,1 +1,1 @@
-  - [선형대수학 강좌](https://www.youtube.com/playlist?list=PLSN_PltQeOyjDGSghAf92VhdMBeaLZWR3) [[강의자료]](http://www.kocw.net/home/search/kemView.do?kemId=977757)
+  - [선형대수학 강좌](https://www.youtube.com/playlist?list=PLSN_PltQeOyjDGSghAf92VhdMBeaLZWR3) [[교재]](https://drive.google.com/file/d/0B6Ry8c3OoOuqcDN6TXQzWlF2V3M/view?usp=sharing), [[강의자료]](http://www.kocw.net/home/search/kemView.do?kemId=977757)
