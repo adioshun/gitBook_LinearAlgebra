@@ -1,4 +1,12 @@
-  - [선형대수학 강좌](https://www.youtube.com/playlist?list=PLSN_PltQeOyjDGSghAf92VhdMBeaLZWR3) [[교재]](https://drive.google.com/file/d/0B6Ry8c3OoOuqcDN6TXQzWlF2V3M/view?usp=sharing), [[강의자료]](http://www.kocw.net/home/search/kemView.do?kemId=977757)
+ - Lear Again 블로그 
+ 
+ [배경지식-LU분해](http://twlab.tistory.com/category/Fundamentals/Linear%20Algebra?page=4)
+ [행렬곱샘-선형독립](http://twlab.tistory.com/category/Fundamentals/Linear%20Algebra?page=3)
+ [행렬 공간-투영행렬](http://twlab.tistory.com/category/Fundamentals/Linear%20Algebra?page=2)
+ [직교행렬-고유백터](http://twlab.tistory.com/category/Fundamentals/Linear%20Algebra?page=1)
+ 
+ 
+ - [선형대수학 강좌](https://www.youtube.com/playlist?list=PLSN_PltQeOyjDGSghAf92VhdMBeaLZWR3) [[교재]](https://drive.google.com/file/d/0B6Ry8c3OoOuqcDN6TXQzWlF2V3M/view?usp=sharing), [[강의자료]](http://www.kocw.net/home/search/kemView.do?kemId=977757)
 
 선형대수 1강 선형성 정의 및 1차 연립방정식의 의미
 선형대수 2강 1차 연립방정식과 가우스소거법
