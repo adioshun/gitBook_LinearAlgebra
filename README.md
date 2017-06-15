@@ -1,1 +1,1 @@
-  - [선형대수학 강좌](https://www.youtube.com/playlist?list=PLSN_PltQeOyjDGSghAf92VhdMBeaLZWR3): 이상화 교수, [[교재]](http://www.kocw.net/home/search/kemView.do?kemId=977757)
+  - [선형대수학 강좌](https://www.youtube.com/playlist?list=PLSN_PltQeOyjDGSghAf92VhdMBeaLZWR3) [[강의자료]](http://www.kocw.net/home/search/kemView.do?kemId=977757)
