@@ -6,5 +6,11 @@ N(A) = {x | Ax =0}
 
 
 
+### 2.2 Solving Ax = 0 & Ax = b
+
+########### Echelon form U 
+
+
+
 
 
