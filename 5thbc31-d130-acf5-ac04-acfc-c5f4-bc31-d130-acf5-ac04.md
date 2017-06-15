@@ -1,13 +1,12 @@
 # Chapter 2. Vector Space 
 
 무한히 많은 해집합은 백터 스페이스를 이루고 있으며, 그 해집합을 표현하기 위하여 백터 스페이스를 알아야 함
+요구사항 : set closed(포함되다, $$\in$$) under addition(덧셈) & scalar multiplication
 
 ## 2.1 V.S / Sub Space 
 
 ### A. Vector Space 
 정의 : 백터들의 집합
-
-요구사항 : set closed(포함되다, $$\in$$) under addition(덧셈) & scalar multiplication
 
 특징 
 
