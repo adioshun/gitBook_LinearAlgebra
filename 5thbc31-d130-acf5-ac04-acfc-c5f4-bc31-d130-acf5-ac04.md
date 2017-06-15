@@ -26,4 +26,5 @@ eg. Lower triangular mat. in $${R^n}^2$$
 
 
 ## Column Space of A (열백터) 
-> 정의 : set of all linear combinations from column vector  in A 
+> 정의 : set of all **linear combinations** from column vector  in A 
+
