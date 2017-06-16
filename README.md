@@ -125,7 +125,7 @@ Chapter 2 VECTOR 69
 2.5 Graphs and Networks 114 
 2.6 Linear Transformations 125 
 
-Chapter 3 T G ALI Y 141
+Chapter 3 ORTHOGONALITY 141
 3.1 Orthogonal Vectors and Subspaces 141 
 3.2 Cosines and Projections onto Lines 152 
 3.3 Projections and Least Squares 160 
