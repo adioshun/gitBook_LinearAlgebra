@@ -23,8 +23,8 @@
 # 참고 강의 
  
 ###### 라온피플 [수학포기 금지](https://m.blog.naver.com/laonple/220925319311)
-- intro
-- 선형대수 정의
+- <del>[Intro](https://m.blog.naver.com/laonple/220925319311)</del>
+- [선형대수 정의](https://m.blog.naver.com/laonple/220930613080)
 - 백터 탐구 생활
  
 ###### [머신러닝 기초 - 선형 대수](https://opentutorials.org/course/2342/131550
