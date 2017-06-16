@@ -50,12 +50,22 @@ y = 3x 에서 대수는 x,y  /3는 계수
 
 - Linear Algebra Review by Andrew NG  
  
+
+(1) 가우스 소거법이 어떤 거구나
+(2) 벡터 공간과 부벡터 공간에 대한 개념적 이해
+(3) 선형변환, 선형독립, 선형결합, Projection 등에 대한 개념적 이해
+(4) 행렬 판별식과 eigenvalue, eigenvector에 대한 개념적 이해
+(5) Singular에 대한 개념적 이해
+ 
+ 
+ 
 # 참고 강의 
  
 ###### 라온피플 [수학포기 금지](https://m.blog.naver.com/laonple/220925319311)
 - <del>[Intro](https://m.blog.naver.com/laonple/220925319311)</del>
 - <del>[선형대수 정의](https://m.blog.naver.com/laonple/220930613080)</del>
 - [백터 탐구 생활](https://m.blog.naver.com/laonple/220949928793)
+
  
 ###### [머신러닝 기초 - 선형 대수](https://opentutorials.org/module/2336/13156)
 - Matrix란 무엇인가?
@@ -107,6 +117,8 @@ Lecture 1, The Geometry of Linear Equations (2)
 Lecture 1, The Geometry of Linear Equations (1)  
 
 
+
+#### 교재
 
 Chapter 1 MATRICES AND GAUSSIAN ELIMINATION
 1.1 Introduction 1 
