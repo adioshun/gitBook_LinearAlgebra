@@ -14,15 +14,31 @@
 # 1차 연립 방법식과 가우스 소거법
 
 Singular case  
-- 답이 없음 
-- 답이 무수히 많음 
+    - 답이 없음 
+    - 답이 무수히 많음 
 
-1. row form 
-- 평행한 경우 (닶이 없음)
-- 겹침 (답이 무수히 많음)
 
-2. Column form 
-- 
+#### 1. row form = 내적(Dot Product)
+
+#### 2. Column form  = 선형결합(Linear Comnibation)
+
+Matrix Form
+$$
+ \Rightarrow \begin{bmatrix} 2 & -1 \\ -1 & 2 \end{bmatrix} \begin{bmatrix} x \\ y \end{bmatrix} = \begin{bmatrix} 0 \\ 3 \end{bmatrix} 
+$$
+
+Row picture
+
+$$ 2x -  y = 0 $$ 
+$$ -x + 2y = 3 $$
+
+column picture
+$$
+ x\begin{bmatrix} 2 \\ -1\end{bmatrix} + y\begin{bmatrix} -1 \\ 2 \end{bmatrix} = \begin{bmatrix} 0 \\ 3 \end{bmatrix} 
+$$
+
+
+
 
 ## 가우스 소거법 
 - 연립 방정식을 푸는 방법 

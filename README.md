@@ -75,7 +75,7 @@ y = 3x 에서 대수는 x,y  /3는 계수
 ###### Lear Again 블로그 
 - <del>[배경지식](http://twlab.tistory.com/entry/Linear-Algebra-Lecture-1-Introduction)</del>
 
-- [Lecture 1, The Geometry of Linear Equations (1)](http://twlab.tistory.com/entry/Linear-Algebra-Lecture-1-Introduction-1)
+- [Lecture 1, The Geometry of Linear Equations (1)](http://twlab.tistory.com/entry/Linear-Algebra-Lecture-1-Introduction-1): 2D상에서 Row Picture와 Column Picture살펴 보기 
  
    
 - [배경지식-LU분해](http://twlab.tistory.com/category/Fundamentals/Linear%20Algebra?page=4)
