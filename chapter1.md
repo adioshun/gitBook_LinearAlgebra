@@ -18,29 +18,31 @@ Singular case
     - 답이 무수히 많음 
 
 
-#### 1. row form = 내적(Dot Product)
-
-#### 2. Column form  = 선형결합(Linear Comnibation)
-
-Matrix Form
+##### Matrix Form
 $$
  \Rightarrow \begin{bmatrix} 2 & -1 \\ -1 & 2 \end{bmatrix} \begin{bmatrix} x \\ y \end{bmatrix} = \begin{bmatrix} 0 \\ 3 \end{bmatrix} 
 $$
 
-Row picture
+##### 선형시스템 해석법 1 : Row picture
+
+row form = 내적(Dot Product)
+
 
 $$ 2x -  y = 0 $$ 
 $$ -x + 2y = 3 $$
 
-column picture
+##### 선형시스템 해석법 2 :  column picture
+
+Column form  = 선형결합(Linear Comnibation)
+
 $$
  x\begin{bmatrix} 2 \\ -1\end{bmatrix} + y\begin{bmatrix} -1 \\ 2 \end{bmatrix} = \begin{bmatrix} 0 \\ 3 \end{bmatrix} 
 $$
 
 
 
-
-## 가우스 소거법 
+# 해를 구하기 위한 방법
+## 1. 가우스 소거법 
 - 연립 방정식을 푸는 방법 
 - 미지수의 갯수와 방정식의 갯수가 같은 경우 
 
@@ -54,4 +56,13 @@ Matrix로 표현 = upper Triangular U
 ## 1.4 Matrix Multiplication 
 
 
+## 2. Back-substitution (후방 대입법)
+
+## 3. Elimination matrices (소거 행렬)
+
+## 4. Matrix multiplication (행렬 곱)
+
+
+
+출처: http://twlab.tistory.com/entry/Linear-Algebra-Lecture-2 [Learn Again! 러너게인]
 
