@@ -107,13 +107,67 @@ Lecture 1, The Geometry of Linear Equations (2)
 Lecture 1, The Geometry of Linear Equations (1)  
 
 
-출처: http://twlab.tistory.com/entry/행렬곱셉Matrix-multiplication-역행렬Inverse-matrix-그리고-GaussJordan [Learn Again! 러너게인]   
-         
-- [배경지식-LU분해](http://twlab.tistory.com/category/Fundamentals/Linear%20Algebra?page=4)
-- [행렬곱샘-선형독립](http://twlab.tistory.com/category/Fundamentals/Linear%20Algebra?page=3)
-- [행렬 공간-투영행렬](http://twlab.tistory.com/category/Fundamentals/Linear%20Algebra?page=2)
-- [직교행렬-고유백터](http://twlab.tistory.com/category/Fundamentals/Linear%20Algebra?page=1)
- 
+
+Chapter 1 MATRICES AND GAUSSIAN ELIMINATION
+1.1 Introduction 1 
+1.2 The Geometry of Linear Equations 3 
+1.3 An Example of Gaussian Elimination 11 
+1.4 Matrix Notation and Matrix Multiplication 19 
+1.5 Triangular Factors and Row Exchanges 32 
+1.6 Inverses and Transposes 45 
+1.7 Special Matrices and Applications 58 
+
+Chapter 2 VECTOR 69
+2.1 Vector Spaces and Subspaces 69 
+2.2 Solving Ax = 0 and Ax = b 77 
+2.3 Linear Independence, Basis, and Dimension 92 
+2.4 The Four Fundamental Subspaces 102 
+2.5 Graphs and Networks 114 
+2.6 Linear Transformations 125 
+
+Chapter 3 T G ALI Y 141
+3.1 Orthogonal Vectors and Subspaces 141 
+3.2 Cosines and Projections onto Lines 152 
+3.3 Projections and Least Squares 160 
+3.4 Orthogonal Bases and Gram-Schmidt 174 
+3.5 The Fast Fourier Transform 188 
+
+Chapter 4 DETERMINANTS 201
+4.1 Introduction 201 
+4.2 Properties of the Determinant 203 
+4.3 Formulas for the Determinant 210 
+4.4 Applications of Determinants 220 
+
+Chapter 5 EIGENVALUES AND EIGENVECTORS 233 
+5.1 Introduction 233 
+5.2 Diagonalization of a Matrix 245 
+5.3 Difference Equations and Powers Ak 254 
+5.4 Differential Equations and eAt 266 
+5.5 Complex Matrices 280 
+5.6 Similarity Transformations 293 
+
+Chapter 6 POSITIVE DEFINITE MATRICES 311
+6.1 Minima, Maxima, and Saddle Points 311 
+6.2 Tests -for Positive Definiteness 318 
+6.3 ` Singular Value Decomposition 331 
+6.4 Minimum Principles 339 
+6.5 The Finite-Element Method 346
+
+Chapter 7 COMPUTATIONS WITH MATRICES 351
+7.1 Introduction 351 
+7.2 Matrix Number 352 
+7.3 Computation of Eigenvalues 359 
+7.4 Iterative Methods for Ax = b 367
+
+Chapter 8 LINEAR PROGRAMMING AND GAME THEORY 377
+8.1 Linear Inequalities 377 
+8.2 The Simplex Method 382 
+8.3 The Dual Problem 392 
+8.4 Network Models 401 
+8.5 Game Theory 408
+
+
+
  
 ###### [한양대 이상화 교수 강좌](https://www.youtube.com/playlist?list=PLSN_PltQeOyjDGSghAf92VhdMBeaLZWR3) [[교재]](https://drive.google.com/file/d/0B6Ry8c3OoOuqcDN6TXQzWlF2V3M/view?usp=sharing), [[강의자료]](http://www.kocw.net/home/search/kemView.do?kemId=977757)
 
