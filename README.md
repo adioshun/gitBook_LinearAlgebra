@@ -1,10 +1,33 @@
- # 선형대수학
+# 용어 정리 
+
+## 1 선형
+
+선형성이 어떤 시스템에서 입력에 대응하는 출력이 나온다는 의미
+
+## 2 대수 
+대수 = 산수
+
+## 3 선형 대수  
+- 백터와 행렬을 이용한 산수 
+ - 수의 닫힘 집합 = 벡터 공간 
+ - 절대값 = 행렬값(Determinant)
+ - 양수 = 양정치(Positive-definite Matrix)
  
+# 선형대수학과 머신러닝 
+- 머신러닝 = 데이터를 처리 = 방정식을 풀어 해를 구한다 = 방정식을 푸는 방법이 `선형대수`
  
- # 선형대수학과 머신러닝 
- 머신러닝 = 데이터를 처리 = 방정식을 풀어 해를 구한다 = 방정식을 푸는 방법이 `선형대수`
+- 딥러닝을 위한 선형 대수 요약본 by Ian Goodfellow
+
+- Linear Algebra Review by Andrew NG  
  
- ###### [머신러닝 기초 - 선형 대수](https://opentutorials.org/course/2342/131550
+# 참고 강의 
+ 
+###### 라온피플 [수학포기 금지](https://m.blog.naver.com/laonple/220925319311)
+- intro
+- 선형대수 정의
+- 백터 탐구 생활
+ 
+###### [머신러닝 기초 - 선형 대수](https://opentutorials.org/course/2342/131550
 - Matrix란 무엇인가?
 - Linearly independent
 - Rank
