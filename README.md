@@ -13,23 +13,30 @@
 > 어떤 시스템에서 입력에 대응하는 출력이 나온다는 의미, ‘원인(입력)과 효과(결과)간의 비례(직선) 특성’
 
 
+선형성을 가진다 = 예측이 가능하다 
+
 ## 2 대수 
 ‘대수(algebra)’란 대신할 대(代) + 셈수(數)가 결합한 것, 수를 대신하여 문자나 수학법칙으로 표현하는 것
+
+y = 3x 에서 대수는 x,y  /3는 계수 
 
 대수 = 산수
 
 ## 3 선형 대수  
-선의 형상을 가진 것을 수가 아닌 문자나 수학법칙으로 표현해야 것
+- 선형 방정식을 풀기 위한 방법론 
 
-선형대수는 어떤 함수(Function, Mapping Operator, Transformation)가 선형 함수(Linear Function)일 때 그 성질을 배우는 것 
+- 선형성을 가지는 대수로 이루어진 방정식들의 해를 구하는 방법론 
 
-선형 대수는 벡터(Vector)와 행렬(Matrix)을 이용하여 표현되며
-- ​대표적인 선형 함수로는 
+- 선의 형상을 가진 것을 수가 아닌 문자나 수학법칙으로 표현해야 것
+
+- 선형대수는 어떤 함수(Function, Mapping Operator, Transformation)가 선형 함수(Linear Function)일 때 그 성질을 배우는 것 
+
+- 선형 대수는 벡터(Vector)와 행렬(Matrix)을 이용하여 표현되며, ​대표적인 선형 함수로는 
  - 정비례 함수(y=ax)
  - 미분
  - 적분
 
-벡터(Vector)와 행렬(Matrix)를 배우는 학문
+- 벡터(Vector)와 행렬(Matrix)를 배우는 학문
 
 ###### 백터와 행렬을 이용한 산수/산수와의 유사성
 - 수의 닫힘 집합 = 벡터 공간 
@@ -66,7 +73,11 @@
 
   
 ###### Lear Again 블로그 
+- <del>[배경지식](http://twlab.tistory.com/entry/Linear-Algebra-Lecture-1-Introduction)</del>
+
+- [Lecture 1, The Geometry of Linear Equations (1)](http://twlab.tistory.com/entry/Linear-Algebra-Lecture-1-Introduction-1)
  
+   
 - [배경지식-LU분해](http://twlab.tistory.com/category/Fundamentals/Linear%20Algebra?page=4)
 - [행렬곱샘-선형독립](http://twlab.tistory.com/category/Fundamentals/Linear%20Algebra?page=3)
 - [행렬 공간-투영행렬](http://twlab.tistory.com/category/Fundamentals/Linear%20Algebra?page=2)
