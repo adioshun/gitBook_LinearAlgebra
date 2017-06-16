@@ -102,7 +102,13 @@ Matrix로 표현 = upper Triangular U
 
 ## 4. Matrix multiplication (행렬 곱)
 
+### 4.1 Row x column 방법 
 
 
-출처: http://twlab.tistory.com/entry/Linear-Algebra-Lecture-2 [Learn Again! 러너게인]
+### 4.2 Column-wise방법 
+
+
+### 4.3 Row-wise 방법 
+
+### 4.4 column x row 방법 
 
