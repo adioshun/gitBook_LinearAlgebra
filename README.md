@@ -48,9 +48,9 @@
 ###### 라온피플 [수학포기 금지](https://m.blog.naver.com/laonple/220925319311)
 - <del>[Intro](https://m.blog.naver.com/laonple/220925319311)</del>
 - <del>[선형대수 정의](https://m.blog.naver.com/laonple/220930613080)</del>
-- <del>[백터 탐구 생활](https://m.blog.naver.com/laonple/220949928793)</del>
+- [백터 탐구 생활](https://m.blog.naver.com/laonple/220949928793)
  
-###### [머신러닝 기초 - 선형 대수](https://opentutorials.org/course/2342/131550
+###### [머신러닝 기초 - 선형 대수](https://opentutorials.org/course/2342/131550)
 - Matrix란 무엇인가?
 - Linearly independent
 - Rank
