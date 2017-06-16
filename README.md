@@ -112,4 +112,4 @@ Alternate coordinate systems (bases)
 - Eigen-everything
 
 
-참고 : [확률통계]
+참고 : [High school statistics](https://www.khanacademy.org/math/probability)
