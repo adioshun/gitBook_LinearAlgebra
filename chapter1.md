@@ -11,8 +11,6 @@
 
 `원점을 지나는 평면상의 직선은 선형성을 만족 하며, 백터라고 부름`
 
-# 1차 연립 방법식과 가우스 소거법
-
 Singular case  
     - 답이 없음 
     - 답이 무수히 많음 
@@ -23,7 +21,9 @@ $$
  \Rightarrow \begin{bmatrix} 2 & -1 \\ -1 & 2 \end{bmatrix} \begin{bmatrix} x \\ y \end{bmatrix} = \begin{bmatrix} 0 \\ 3 \end{bmatrix} 
 $$
 
-##### 선형시스템 해석법 1 : Row picture
+## 2. 선형 시스템 해석 하는 방법 
+
+### 2.1 : Row picture
 
 row form = 내적(Dot Product)
 
@@ -31,7 +31,7 @@ row form = 내적(Dot Product)
 $$ 2x -  y = 0 $$ 
 $$ -x + 2y = 3 $$
 
-##### 선형시스템 해석법 2 :  column picture
+### 2.2 :  column picture
 
 Column form  = 선형결합(Linear Comnibation)
 
@@ -41,10 +41,10 @@ $$
 
 
 
-# 해를 구하기 위한 방법
+## 3. 해를 구하기 위한 방법
 ![](http://cfile6.uf.tistory.com/image/24502934581DC8162AFF95)
 
-## 1. 가우스 소거법 
+### 2.1 가우스 소거법 
 - 연립 방정식을 푸는 방법 
 - 미지수의 갯수와 방정식의 갯수가 같은 경우
 - 목적 : 시스템 행렬 A를 upper triangular matrix로 만드는것  
@@ -56,10 +56,7 @@ Matrix로 표현 = upper Triangular U
 고려 사항 : 피봇에 0이 존재 하면 가우스 소거법 사용 못함 
 - pivot에 `0`이 존재 하여 가우스 소거법을 사용 못할경우, 순서를 바꾸어 문제 해결 --> pivoting 
 
-## 1.4 Matrix Multiplication 
-
-
-## 2. Back-substitution (후방 대입법)
+### 2.2 Back-substitution (후방 대입법)
 기존 소거법은 Ax = b에서 A만을 소거 하는 방식, b까지 고려 하여 소거법을 적용 해야 한다
 
 
@@ -76,9 +73,7 @@ Matrix로 표현 = upper Triangular U
 
 
 
-## 3. Elimination matrices (소거 행렬= E)
-
-### 3.1 소거 행렬 생성 
+### 3.3 Elimination matrices (소거 행렬= E)
 
 ![](http://cfile9.uf.tistory.com/image/2669753358220C1E0E87C5)
 
@@ -108,8 +103,10 @@ Matrix로 표현 = upper Triangular U
 
 ### 4.2 Column-wise방법 
 
-
 ### 4.3 Row-wise 방법 
 
 ### 4.4 column x row 방법 
+
+### 4.5 Block Multiplication 방법 
+
 
