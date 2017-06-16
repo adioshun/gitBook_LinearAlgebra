@@ -102,8 +102,9 @@ Matrix로 표현 = upper Triangular U
 
 ## 4. Matrix multiplication (행렬 곱)
 
-### 4.1 Row x column 방법 
+> [다시 살펴 보기](http://twlab.tistory.com/entry/%ED%96%89%EB%A0%AC%EA%B3%B1%EC%85%89Matrix-multiplication-%EC%97%AD%ED%96%89%EB%A0%ACInverse-matrix-%EA%B7%B8%EB%A6%AC%EA%B3%A0-GaussJordan)
 
+### 4.1 Row x column 방법 
 
 ### 4.2 Column-wise방법 
 
