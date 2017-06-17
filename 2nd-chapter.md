@@ -1,6 +1,7 @@
-# 3강 LU 분할
+# LU 분할
 
-#### Decomposition/Factorization
+## 1 용어 정리 
+###### Decomposition/Factorization
 어떤 행렬(Matrix)을 여러 행렬들의 곱으로 표현하는 것 = cf.인수분해
 - 인수 분해 : 방정식을 좀 더 알아보기 쉽게, 특수한 상황에서 문제를 풀기 쉽게
 
@@ -13,7 +14,7 @@
 - QR Decomposition 
 - LU Decomposition 
 
-#### LU Decomposition
+###### LU Decomposition
 - 행렬A를 하삼각 행렬(L)과 상삼각행렬(U)의 곱으로 분해 하는것 = $$A = L U $$
 
 - 가우스 소거(Gauss Elimination)에 의한 Elimination 행렬 형태로 볼 수 있으며, 때때로 치환행렬(permutation matrix)을 포함하기도 한다. 
@@ -23,6 +24,42 @@
 
 
 > 출처: [Learn Again! 러너게인](http://twlab.tistory.com/entry/Linear-Algebra-Lecture-4-행렬-분해Factorization-ALU)
+
+
+
+## 2. LU 분할
+
+1. A에 소거법을 적용하여 U행렬 생성 
+![](http://cfile5.uf.tistory.com/image/251CCF3858481FD328D9E7)
+
+2. A= LU 를 이용하여 E의 역은 L임을 확인  
+
+$$
+
+EA = U \rightarrow A = E^{-1}U \rightarrow E^{-1} = L 
+
+$$
+
+![](http://cfile29.uf.tistory.com/image/262B3850584823D52C544A)
+
+
+## 3. LDU 분할
+Pivot들만 따로 떼어서 분해해야 하는 경우 
+
+A = L+ D + U = 하삼각행렬(Lower Triangular Matrix) + Pivot들만 있는 대각행렬(Diagonal Matrix)+ 상삼각행렬(Upper Triangular Matrix)
+
+
+1. D 생성 : pivot만 떼어내서어 생성 
+
+2. U 변경 
+
+![](http://cfile1.uf.tistory.com/image/24424250584829922981AC)
+
+
+
+---
+
+
 
 
 ## 1.5 Triangular Factors   
