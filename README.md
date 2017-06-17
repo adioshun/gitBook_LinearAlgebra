@@ -60,7 +60,18 @@ y = 3x 에서 대수는 x,y  /3는 계수
  
  
 # 참고 강의 
- 
+
+
+|Learn Again|MIT강의|한양대|
+|-|-|-|
+|1, The Geometry of Linear Equations|note 1: Geometry of linear equations |1강 선형성 정의 및 1차 연립방정식의 의미|
+|2, 소거법, 후방 대입법 그리고 소거 행렬|note 2: Elimination with Matrices|1차 연립방정식과 가우스소거법| 
+|3, 행렬곱셉(Matrix multiplication), 역행렬(Inverse matrix) 그리고 Gauss-Jordan|note 3: Multiplication and Inverse Matrices|4강 역행렬과 전치행렬|
+|4, LU Decomposition(분해)|note 4: Factorization into A = LU|3강 LU 분할|
+|5 - (1) 치환행렬(Permutations), 전치(Transposes) 그리고 대칭 행렬(Symmetric Matrix)|note 5: Transposes, permutations, space R^n| 4강 역행렬과 전치행렬|
+|5 - (2) 벡터 공간(Vector Spaces), 부분 공간(Sub Spaces) |note 5: Transposes, permutations, space R^n|5강 벡터공간과 열벡터공간|
+
+
 ###### 라온피플 [수학포기 금지](https://m.blog.naver.com/laonple/220925319311)
 - <del>[Intro](https://m.blog.naver.com/laonple/220925319311)</del>
 - <del>[선형대수 정의](https://m.blog.naver.com/laonple/220930613080)</del>
@@ -112,6 +123,37 @@ y = 3x 에서 대수는 x,y  /3는 계수
 - 21-(2) 고유값(eigenvalues)과 고유 벡터(eigenvectors)
 
 
+##### [MIT강좌 (2005)](http://judis.me/wordpress/2015/09/30/%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98-note-1-geometry-of-linear-equations/)
+
+- 선형대수 note 1: Geometry of linear equations (9/30/2015)
+- 선형대수 note 2: Elimination with Matrices (9/30/2015)
+- 선형대수 note 3: Multiplication and Inverse Matrices (9/30/2015)
+- 선형대수 note 4: Factorization into A = LU (9/30/2015)
+- 선형대수 note 5: Transposes, permutations, space R^n (9/30/2015)
+- 선형대수 note 6: Column space and nullspace (10/2/2015)
+- 선형대수 note 7: Solving Ax = 0 pivot variables, special solutions (10/2/2015)
+- 선형대수 note 8: Solving Ax = b row reduced form R (10/2/2015)
+- 선형대수 note 9: Independence, basis, and dimension (10/2/2015)
+- 선형대수 note 10: The four fundamental subspaces (10/3/2015)
+- 선형대수 note 11: Matrix spaces; rank 1; small world graphs (10/4/2015)
+- 선형대수 note 14: Orthogonal vectors and subspaces (10/4/2015)
+- 선형대수 note 15: Projections onto subspaces (10/4/2015)
+- 선형대수 note 16: Projection matrices and least squares (10/6/2015)
+- 선형대수 note 17: Orthogonal matrices and Gram-Schmidt (10/10/2015)
+- 선형대수 note 18: Properties of determinants (10/10/2015)
+- 선형대수 note 19: Determinant formulas and cofactors (10/12/2015)
+- 선형대수 note 20: Cramer’s rule, inverse matrix, and volume (10/13/2015)
+- 선형대수 note 21: Eigenvalues and Eigenvectors (10/14/2015)
+- 선형대수 note 22: Diagonalization and Powers of A (10/18/2015)
+- 선형대수 note 23: Differential equations and exp(At) (12/23/2015)
+- 선형대수 note 24: Markov matrices; fourier series (12/23/2015)
+- 선형대수 note 25: Symmetric matrices and positive definiteness (12/23/2015)
+- 선형대수 note 26: Complex matrices; fast fourier transform (12/23/2015)
+- 선형대수 note 27: Positive definite matrices and minima (12/24/2015)
+- 선형대수 note 28: Similar matrices and jordan form (12/24/2015)
+- 선형대수 note 29: Singular value decomposition (12/25/2015)
+- 선형대수 note 30: Linear Transformations and Their Matrices (12/26/2015)
+- 선형대수 note 33: Left and Right Inverses; Pseudoinverse. (12/27/2015)
 
 
 
@@ -208,37 +250,7 @@ y = 3x 에서 대수는 x,y  /3는 계수
 - 선형대수 22강 복소행렬과 에르미트 행렬
 - 선형대수 23강 특이값 분할 (SVD)
 
-###### [MIT강좌 (2005)](http://judis.me/wordpress/2015/09/30/%EC%84%A0%ED%98%95%EB%8C%80%EC%88%98-note-1-geometry-of-linear-equations/)
 
-- 선형대수 note 1: Geometry of linear equations (9/30/2015)
-- 선형대수 note 2: Elimination with Matrices (9/30/2015)
-- 선형대수 note 3: Multiplication and Inverse Matrices (9/30/2015)
-- 선형대수 note 4: Factorization into A = LU (9/30/2015)
-- 선형대수 note 5: Transposes, permutations, space R^n (9/30/2015)
-- 선형대수 note 6: Column space and nullspace (10/2/2015)
-- 선형대수 note 7: Solving Ax = 0 pivot variables, special solutions (10/2/2015)
-- 선형대수 note 8: Solving Ax = b row reduced form R (10/2/2015)
-- 선형대수 note 9: Independence, basis, and dimension (10/2/2015)
-- 선형대수 note 10: The four fundamental subspaces (10/3/2015)
-- 선형대수 note 11: Matrix spaces; rank 1; small world graphs (10/4/2015)
-- 선형대수 note 14: Orthogonal vectors and subspaces (10/4/2015)
-- 선형대수 note 15: Projections onto subspaces (10/4/2015)
-- 선형대수 note 16: Projection matrices and least squares (10/6/2015)
-- 선형대수 note 17: Orthogonal matrices and Gram-Schmidt (10/10/2015)
-- 선형대수 note 18: Properties of determinants (10/10/2015)
-- 선형대수 note 19: Determinant formulas and cofactors (10/12/2015)
-- 선형대수 note 20: Cramer’s rule, inverse matrix, and volume (10/13/2015)
-- 선형대수 note 21: Eigenvalues and Eigenvectors (10/14/2015)
-- 선형대수 note 22: Diagonalization and Powers of A (10/18/2015)
-- 선형대수 note 23: Differential equations and exp(At) (12/23/2015)
-- 선형대수 note 24: Markov matrices; fourier series (12/23/2015)
-- 선형대수 note 25: Symmetric matrices and positive definiteness (12/23/2015)
-- 선형대수 note 26: Complex matrices; fast fourier transform (12/23/2015)
-- 선형대수 note 27: Positive definite matrices and minima (12/24/2015)
-- 선형대수 note 28: Similar matrices and jordan form (12/24/2015)
-- 선형대수 note 29: Singular value decomposition (12/25/2015)
-- 선형대수 note 30: Linear Transformations and Their Matrices (12/26/2015)
-- 선형대수 note 33: Left and Right Inverses; Pseudoinverse. (12/27/2015)
 
 ###### 칸 아카데미 [선형대수](https://www.khanacademy.org/math/linear-algebra)
 Vectors and spaces
