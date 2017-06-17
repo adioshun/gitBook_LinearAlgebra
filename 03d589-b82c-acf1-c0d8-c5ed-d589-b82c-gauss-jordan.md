@@ -1,6 +1,19 @@
-# 1.6 Inverse & Transpose
+# Matrix multiplication (행렬 곱)
 
-## 1. Inverse\(역행렬\)
+> [다시 살펴 보기](http://twlab.tistory.com/entry/%ED%96%89%EB%A0%AC%EA%B3%B1%EC%85%89Matrix-multiplication-%EC%97%AD%ED%96%89%EB%A0%ACInverse-matrix-%EA%B7%B8%EB%A6%AC%EA%B3%A0-GaussJordan)
+
+# 1 Row x column 방법 
+
+# 2 Column-wise방법 
+
+# 3 Row-wise 방법 
+
+# 4 column x row 방법 
+
+# 5 Block Multiplication 방법 
+
+--- 
+# Inverse\(역행렬\)
 
 $$ AA^{-1} = A^{-1}A = I $$
 
@@ -63,48 +76,4 @@ $$
 
 5. 반대로 아래에서 위쪽으로 소거를 한번 더 진행 
 ![](http://cfile9.uf.tistory.com/image/276A894F5839DF291A6375)
-
-## 2. Transpose \(전치행렬\)
-- row의 원소들이 column이 되고, column의 원소들이 row의 원소가 되는 것
-
--  대각선을 중심축으로 행렬을 180도 돌려서 뒤집는 것
-
-
-$$  A^T = a_{ij} -> a_{ji} $$
-
-$$ (A+B)^T = A^T + B^T$$
-
-$$ (AB)^T = B^TA^T$$
-
-$$(A^{-1})^T = (A^T)^{-1} $$
-
-###### Symmetric Matrix \(대칭행렬\)
-
-$$ A^T = A $$ : 전치해도 값이 같다.
-
-* if A is symmetrix and invertible, then $$ A^{-1}$$ is too 
-
-###### Correlation Matrix
-
-* 자신과 관련된 정보 출력 
-
-$$ R = A^TA$$
-
-$$ R^T = R $$
-
-> 자신과 자신의 전치와의 곱은 내적과 같음
-
-
-## 3. 역행렬 & 전치 행렬 
-
-$$
-AA^1 = I 
-\rightarrow Traspose(전치)\rightarrow (AA^-1)^T = (I)^T \rightarrow (A^{-1})^T(A)^T = I \rightarrow (A^{-1})^T = (A^T)^{-1}
-$$
-
-
-
-
-
-
 
