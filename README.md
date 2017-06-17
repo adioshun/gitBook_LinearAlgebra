@@ -88,33 +88,33 @@ y = 3x 에서 대수는 x,y  /3는 계수
 - [Lecture 1, The Geometry of Linear Equations (1)](http://twlab.tistory.com/entry/Linear-Algebra-Lecture-1-Introduction-1): 2D상에서 Row Picture와 Column Picture살펴 보기 
 
 
-Lecture 21-(2) 고유값(eigenvalues)과 고유 벡터(eigenvectors) 
-Lecture 21-(1) 고유값(eigenvalues)과 고유 벡터(eigenvectors) 
-Lecture 20-(2) 행렬식(Determinant)의 기하학적 해석(Geometrical Analysis) 
-Lecture 20-(1) 행렬식(Determinant)과 역행렬(Inverse Matrix), 그리고 크래머 공식(Cramer's Rule) 
-Lecture 19 행렬식(Determinant)의 계산 방법과 여인수(Cofactor) 
-Lecture 18 행렬식의 특성(Properties of Determinants) 
-Lecture 17-(2) 직교행렬(Orthogonal Matrices)과 그람 슈미트 과정(Gram-Schmidt Process) 
-Lecture 17-(1) 직교행렬(Orthogonal Matrices)과 그람 슈미트 과정(Gram-Schmidt Process)
-Lecture 16 투영행렬(Projection matrix)과 최소자승법(Least Square method)
-Lecture 15-(2) 투영행렬(Projection matrix)과 부분 공간(subspaces)
-Lecture 15-(1) 해가 존재하지 않는 선형연립방정식(Ax=b)의 해 (overdetermined case) 
-Lecture 14 직교 벡터(Orthogonal Vector)와 부분 공간(Subspace) 
-Lecture 12 그래프와 네트워크(Graph and Network), 근접 행렬(Incidence Matrices)
-Lecture 11-(2) Rank 1행렬 (Rank 1 Matrix)
-Lecture 11-(1) 행렬 공간(Matrix Spaces) 
-Lecture 10 네 개의 주요 부분 공간(Fundamental subspaces)
-Lecture 9 선형 독립(Linear independence), Span, 기저(Basis) 그리고 차원(Dimension) 
-Lecture 8 선형방정식 Ax=b의 완전해(complete solution)와 Rank 
-Lecture 7 Null Space계산 알고리즘. Ax=0과 Pivot variable 그리고 Free variable 
-Lecture 6 Column Space와 영공간(Null Space) 
-Lecture 5 - (2) 벡터 공간(Vector Spaces), 부분 공간(Sub Spaces)
-Lecture 5 - (1) 치환행렬(Permutations), 전치(Transposes) 그리고 대칭 행렬(Symmetric Matrix)	
-Lecture 4, LU Decomposition(분해) 	
-Lecture 3, 행렬곱셉(Matrix multiplication), 역행렬(Inverse matrix) 그리고 Gauss-Jordan 	
-Lecture 2, 소거법, 후방 대입법 그리고 소거 행렬  	
-Lecture 1, The Geometry of Linear Equations (2) 
-Lecture 1, The Geometry of Linear Equations (1)  
+- Lecture 21-(2) 고유값(eigenvalues)과 고유 벡터(eigenvectors) 
+- Lecture 21-(1) 고유값(eigenvalues)과 고유 벡터(eigenvectors) 
+- Lecture 20-(2) 행렬식(Determinant)의 기하학적 해석(Geometrical Analysis) 
+- Lecture 20-(1) 행렬식(Determinant)과 역행렬(Inverse Matrix), 그리고 크래머 공식(Cramer's Rule) 
+- Lecture 19 행렬식(Determinant)의 계산 방법과 여인수(Cofactor) 
+- Lecture 18 행렬식의 특성(Properties of Determinants) 
+- Lecture 17-(2) 직교행렬(Orthogonal Matrices)과 그람 슈미트 과정(Gram-Schmidt Process) 
+- Lecture 17-(1) 직교행렬(Orthogonal Matrices)과 그람 슈미트 과정(Gram-Schmidt Process)
+- Lecture 16 투영행렬(Projection matrix)과 최소자승법(Least Square method)
+- Lecture 15-(2) 투영행렬(Projection matrix)과 부분 공간(subspaces)
+- Lecture 15-(1) 해가 존재하지 않는 선형연립방정식(Ax=b)의 해 (overdetermined case) 
+- Lecture 14 직교 벡터(Orthogonal Vector)와 부분 공간(Subspace) 
+- Lecture 12 그래프와 네트워크(Graph and Network), 근접 행렬(Incidence Matrices)
+- Lecture 11-(2) Rank 1행렬 (Rank 1 Matrix)
+- Lecture 11-(1) 행렬 공간(Matrix Spaces) 
+- Lecture 10 네 개의 주요 부분 공간(Fundamental subspaces)
+- Lecture 9 선형 독립(Linear independence), Span, 기저(Basis) 그리고 차원(Dimension) 
+- Lecture 8 선형방정식 Ax=b의 완전해(complete solution)와 Rank 
+- Lecture 7 Null Space계산 알고리즘. Ax=0과 Pivot variable 그리고 Free variable 
+- Lecture 6 Column Space와 영공간(Null Space) 
+- Lecture 5 - (2) 벡터 공간(Vector Spaces), 부분 공간(Sub Spaces)
+- Lecture 5 - (1) 치환행렬(Permutations), 전치(Transposes) 그리고 대칭 행렬(Symmetric Matrix)	
+- Lecture 4, LU Decomposition(분해) 	
+- Lecture 3, 행렬곱셉(Matrix multiplication), 역행렬(Inverse matrix) 그리고 Gauss-Jordan 	
+- Lecture 2, 소거법, 후방 대입법 그리고 소거 행렬  	
+- Lecture 1, The Geometry of Linear Equations (2) 
+- Lecture 1, The Geometry of Linear Equations (1)  
 
 
 
