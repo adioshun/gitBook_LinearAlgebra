@@ -1,12 +1,29 @@
 # 3강 LU 분할
 
+#### Decomposition/Factorization
+어떤 행렬(Matrix)을 여러 행렬들의 곱으로 표현하는 것 = cf.인수분해
+- 인수 분해 : 방정식을 좀 더 알아보기 쉽게, 특수한 상황에서 문제를 풀기 쉽게
+
+목적 
+- 첫 번째는 계산의 편리함(computational convenience)
+- 두 번째는 분석적 용이성(analytic simplicity)을 위함
+
+방법 
+- SVD(Singular Value Decomposition)
+- QR Decomposition 
+- LU Decomposition 
+
+#### LU Decomposition
 - 행렬A를 하삼각 행렬(L)과 상삼각행렬(U)의 곱으로 분해 하는것 = $$A = L U $$
 
 - 가우스 소거(Gauss Elimination)에 의한 Elimination 행렬 형태로 볼 수 있으며, 때때로 치환행렬(permutation matrix)을 포함하기도 한다. 
 
 - 컴퓨터는 square 형태의 선형 방정식을 계산할 때 이 LU Decomposition을 사용하며, 역행렬(Inverse Matrix)을 계산하거나 행렬식(determinant)을 계산할 때 필요한 주요 과정이다. 
 
+
+
 > 출처: [Learn Again! 러너게인](http://twlab.tistory.com/entry/Linear-Algebra-Lecture-4-행렬-분해Factorization-ALU)
+
 
 ## 1.5 Triangular Factors   
 

@@ -6,6 +6,10 @@ $$ AA^{-1} = A^{-1}A = I $$
 
 > 보통 행렬은 곱셈의 순서에 따라 결과가 달라진다. 하지만, 역행렬이 존재 하는 `정방행렬(Square Matrix)`의 경우는 그렇지 않다.
 
+한개 이상의 역행렬의 곱
+![](http://cfile23.uf.tistory.com/image/276838355845878C2E3000)
+
+
 ###### 역행렬 존재 요구 사항
 
 1. 만약, 가우스 소거법 결과과 N 개의 피폿을 생성할때 \(=가우스 소거법이 가능하다\)
@@ -38,6 +42,12 @@ $$ AA^{-1} = A^{-1}A = I $$
 
 ### 1.1 역행렬 계산법 \(2x2경우\)
 
+$$
+A^{-1} = \frac{1}{ad-bc}\begin{bmatrix} d & -b \\ -c & a  \end{bmatrix} 
+
+
+$$
+
 ### 1.2 역행렬 계산 법 \(3x3 이상의 경우\) - Gauss-Jordan Method
 1. A에 역행렬을 곱하면 I가 되어야 한다. 
 ![](http://cfile9.uf.tistory.com/image/2371784D5839C868199769)
@@ -55,6 +65,10 @@ $$ AA^{-1} = A^{-1}A = I $$
 ![](http://cfile9.uf.tistory.com/image/276A894F5839DF291A6375)
 
 ## 2. Transpose \(전치행렬\)
+- row의 원소들이 column이 되고, column의 원소들이 row의 원소가 되는 것
+
+-  대각선을 중심축으로 행렬을 180도 돌려서 뒤집는 것
+
 
 $$  A^T = a_{ij} -> a_{ji} $$
 
@@ -79,6 +93,16 @@ $$ R = A^TA$$
 $$ R^T = R $$
 
 > 자신과 자신의 전치와의 곱은 내적과 같음
+
+
+## 3. 역행렬 & 전치 행렬 
+
+$$
+AA^1 = I 
+\rightarrow Traspose(전치)\rightarrow (AA^-1)^T = (I)^T \rightarrow (A^{-1})^T(A)^T = I \rightarrow (A^{-1})^T = (A^T)^{-1}
+$$
+
+
 
 
 
