@@ -49,7 +49,7 @@ Pivot들만 따로 떼어서 분해해야 하는 경우
 A = L+ D + U = 하삼각행렬(Lower Triangular Matrix) + Pivot들만 있는 대각행렬(Diagonal Matrix)+ 상삼각행렬(Upper Triangular Matrix)
 
 
-1. D 생성 : pivot만 떼어내서어 생성 
+1. D 생성 : pivot만 떼어내어서 생성 
 
 2. U 변경 
 
@@ -59,9 +59,37 @@ A = L+ D + U = 하삼각행렬(Lower Triangular Matrix) + Pivot들만 있는 대
 
 ---
 
+|행교환 필요 유무 |방법
+|-|-|
+|없음|위의 기본 방식(2,3)|
+|필요| 치환행렬을 곱해 줌(4)|
 
 
+## 4. (치환행렬을 이용한) LU 분할
 
+가우스 소거법시 행교환이 필요한 경우 
+
+### 4.1 치환행렬 Permutation matrix(p)
+- Pivoting = Row Exchange을 행렬로 표시
+
+- has the same rows with Identity Matrix
+- There is a single '1' in every rows and column
+
+- 치환 행렬의 조합의 개수: n!(factorial). 즉 n=3, 3x2x1=6가지의 조합
+
+- 다시 원래대로 되돌려 놓으려면 어떻게 해야 할까? 바로 역행렬을 곱해주면 되는데,
+
+
+- $$P_{21} $$ = 2번행렬와 1번 행렬을 서로 바꿈
+$$
+\begin{bmatrix}0 & 1 & 0 \\1 & 0 & 0 \\ 0 & 0 & 1 \end{bmatrix}
+$$
+
+$$P^{-1} = P^{T} $$ :P의 역행렬은 Transform하면 된다.
+
+![](http://cfile27.uf.tistory.com/image/27291246586247DD196141)
+
+----
 ## 1.5 Triangular Factors   
 
 $$ A x = b  $$
@@ -134,20 +162,6 @@ $$
 > ? Diagonal matrix(D) =  A = LU = LDU
 
 
-# Permutation matrix(p)
-- Pivoting = Row Exchange을 행렬로 표시 
-
-- has the same rows with Identity Matrix 
-    - There is a single '1' in every rows and column
-
-
-- $$P_{21} $$ = 2번행렬와 1번 행렬을 서로 바꿈 
-    
-$$
-\begin{bmatrix}0 & 1 & 0 \\1 & 0 & 0  \\ 0 & 0 & 1  \end{bmatrix}
-$$
-
-$$P^{-1} = P^{T} $$ :P의 역행렬은 Transform하면 된다. 
 
 
 
