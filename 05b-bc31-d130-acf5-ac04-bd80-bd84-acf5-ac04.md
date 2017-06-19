@@ -20,7 +20,7 @@
 
 - 조건
   - 부분 공간이 되기 위해선 어떠한 수를 **곱하**거나, 같은 공간내의 어떠한 벡터들을 **더해**도 그 결과가 부분 공간내에 존재해야 한다
-  - $$R^2$$의 부분 공간(subspace)은 "반드시 zero vector를 포함해야 한다!", 왜냐하면 어떠한 벡터도 영을 곱하면 zero vector가 되기 때문이다.
+  - $$R^2$$의 부분 공간(subspace)은 "반드시 zero vector를 포함(0을 지나야 한다)해야 한다!", 왜냐하면 어떠한 벡터도 영을 곱하면 zero vector가 되기 때문이다.
   
   
 
@@ -37,19 +37,16 @@
 - zero vector itself
 
 
-## 3. 행렬의 부분 공간(Subspace of Matrix)
-- 행렬에서 부분공간 끄집어내기 
+## 3. 두개 이상의 부분 집합의 합/교집합
 
-![](http://cfile5.uf.tistory.com/image/2453CF3B585E868F0DC41E)
+- 어떤 부분 공간들의 합집합은 부분 공간(subspace)이 아니다. 
 
-위 행렬에서 끄집어 낼수 있는 공간 : Column space [6장에서 자세히 다룸]
-
-> 임의의 행렬 A에서, 모든 column의 선형 결합(Linear Combination)은 부분 공간(subspace)을 형성한다. 우리는 이를 column space라 부르고 C(A)로 쓴다. 
+- 어떤 부분 공간들의 교집합은 부분 공간(subspace)이다. 
 
 
-|![](http://cfile21.uf.tistory.com/image/26736144585E8B0A142287)|![](http://cfile28.uf.tistory.com/image/274ECC36585E93B61062DA)|
-|-|-|
-|기본|모든 선형 결합(임이의 +,x으로 이루어짐)
+
+
+
 
   
 
