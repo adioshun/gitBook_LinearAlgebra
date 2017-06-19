@@ -21,12 +21,15 @@
 
 ### 2.1 particular solution(특수해) x를 찾는다. 
 
-모든 free variable을 0으로 설정한 뒤, pivot variable에 대해 Ax=b를 푼다.
+특수해 : 소거를 마친 행렬 U에서 free variable을 모두 0으로 만든 다음 pivot variable에 대해서 구한 해
 
-
+|![](http://cfile2.uf.tistory.com/image/221A0B4B587A2197106EB9)|![](http://cfile24.uf.tistory.com/image/23636848587A232621A999)|![](http://cfile7.uf.tistory.com/image/270C3343587A27321FCEAE)|
+|-|-|-|
+|식(8)에서 Free variables로 식(9)를 만듬| free variable을 0으로 설정<<br>후방대입으로 $$ x_1=-2, x_3=\frac{3}{2}$$ 구함 |Ax=b의 `특수해` 도출|
 
 ### 2.2 Null Space해를 찾는다. 
 
+널스페이스 해 : Ax=0을 만족시키는 x
 
 
 ### 2.3 특수해와 널 스페이스 해를 더한다. 
