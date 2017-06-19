@@ -64,4 +64,28 @@ free columns는 임이의 값을 자유롭게 설정 할수 있음
 - Echelon form: 행렬 A를 소거하여 U를 만들때 U는 계단 형태일때 
 
 - Reduced row echelon form: Echelon을 좀더 소거(간소화)한 형태 
+    - pivot 원소들의 아래, 위로 모두 0이 되어야 한다
+
+
+## 1. 만드는 법
+
+###### Pivot의 아래, 위를 모두 0으로 만듬 
+
+![](http://cfile10.uf.tistory.com/image/2260034E58F1119E063208)
+
+1을 곱해서 빼준다 
+
+
+###### Pivot의 값을 모두 1로 만든다. 
+![](http://cfile3.uf.tistory.com/image/264EB94A58F111A60D4919)
+
+pivot이 있는 row전체를 pivot으로 나눠주면된다
+
+
+|기약행 사다리꼴 행렬이기 위한 조건|
+|-|
+|. pivot 원소들은 반드시 1이 되어야 한다. <br>. pivot 원소가 있는 column에서 pivot 변수의 모든 아래/위 원소들은 0이 되어야 한다. <br>. 각 row는 처음 나오는 pivot 원소를 만나기 전까지 모든 원소가 0이어야 한다.<br>. 모든 원소가 0인 row는 반드시 pivot 변수가 있는 row의 밑에 있어야 한다. |
+
+## 2. 기약행 사다리꼴을 통해 알수 있는 정보들 
+
 
