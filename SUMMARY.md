@@ -12,4 +12,5 @@
 * [06\_Column Space\_Null Space](06column-space-nullspace.md)
 * [07\_Null space구하기\_기약행사다리꼴행렬](07nullspace-algorithm.md)
 * [08\_Ax=0의 Complete solution](08ax-0c758-complete-solution.md)
+* [9\_선형독립\_Span\_기저\_차원](9c120-d615-b3c5-b9bd-span-ae30-c800-cc28-c6d0.md)
 
