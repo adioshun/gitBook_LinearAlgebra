@@ -40,3 +40,14 @@
 ### 2.3 완전해 구하기 = 특수해 + 널 스페이스 해 
 
 ![](http://cfile22.uf.tistory.com/image/21293345587A38EA1F767B)
+
+
+---
+
+# Rank와 Solution 
+
+![](http://i.imgur.com/ZXZawGj.png)
+n = rank , m = # of rows, n = # of columns
+
+
+출처:[Learn Again! 러너게인](http://twlab.tistory.com/entry/Linear-Algebra-Lecture-8-선형방정식-Axb의-완전해complete-solution)
