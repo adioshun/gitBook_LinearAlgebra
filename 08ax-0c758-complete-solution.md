@@ -31,6 +31,12 @@
 
 널스페이스 해 : Ax=0을 만족시키는 x
 
+||![](http://cfile24.uf.tistory.com/image/2338703C587A2DA5027F0B)
+|-|-|
+|7장 참고|최종 Null space 해|
 
-### 2.3 특수해와 널 스페이스 해를 더한다. 
 
+
+### 2.3 완전해 구하기 = 특수해 + 널 스페이스 해 
+
+![](http://cfile22.uf.tistory.com/image/21293345587A38EA1F767B)
