@@ -7,6 +7,6 @@
 * [03\_행렬곱샘\_역행렬\_Gauss-Jordan](03d589-b82c-acf1-c0d8-c5ed-d589-b82c-gauss-jordan.md)
 * [04\_LU분할](2nd-chapter.md)
 * [05\_A\_치환\_전치\_대칭행렬](05ce58-d658-c804-ce58-b300-ce6d-d589-b82c.md)
-* 05\_B\_백터공간\_부분공간
+* [05\_B\_백터공간\_부분공간](05b-bc31-d130-acf5-ac04-bd80-bd84-acf5-ac04.md)
 * [GLOSSARY.md](glossary.md)
 
