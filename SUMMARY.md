@@ -10,5 +10,5 @@
 * [05\_A\_치환\_전치\_대칭행렬](05ce58-d658-c804-ce58-b300-ce6d-d589-b82c.md)
 * [05\_B\_백터공간\_부분공간](05b-bc31-d130-acf5-ac04-bd80-bd84-acf5-ac04.md)
 * [06\_Column Space\_Null Space](06column-space-nullspace.md)
-* [07\_Null space Algorithm](07nullspace-algorithm.md)
+* [07\_Null space구하기\_기약행사다리꼴행렬](07nullspace-algorithm.md)
 

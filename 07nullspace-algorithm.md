@@ -2,13 +2,13 @@
 - Ax = 0에서 A를 소거 
 
 ## 1. 소거를 통해 U구하기 
-### 1.1 1번쨰 피봇 계산
+###### 1번쨰 피봇 계산
 ![](http://cfile25.uf.tistory.com/image/26778933586E57E62F758E)
 
 Step 1 : (2)에서 Low 1에 x2를 하여 Low 2를 뺀값
 Step 2 : (2)에서 Low 1에 x3를 하여 Low 3를 뺀값
 
-### 1.2 2번쨰 피봇 계산 
+###### 2번쨰 피봇 계산 
 ![](http://cfile10.uf.tistory.com/image/22762843586E59662A2345)
 
 두번째Row가 `0`임 -> 세번쨰 Row와 `행교환`필요 -> 세번째 Row도 `0` 
@@ -25,30 +25,43 @@ Step 1 : (4)에서 Low 2에 x(-1)을 하여 Low을 뺸값
 
 ### 2.1 Pivot column와 Free column 정의 하기 
 
-! [](http://cfile27.uf.tistory.com/image/26400C4D58703B0B2B5E5D)
+![](http://cfile27.uf.tistory.com/image/26400C4D58703B0B2B5E5D)
+
+special solution : 임의의 free variable을 설정하여 구한 해(solution)
+- 보통 첫 번재 free variable을 1로 놓고 나머지는 0, 그 다음은 두 번재 free variable만 1로 놓고 나머지는 0으로 설정하는 식으로 계산
 
 ### 2.2 Free column에 임이의 값 할당 후 후방대입법으로 풀기 
 
 free columns는 임이의 값을 자유롭게 설정 할수 있음 
 
-#### A. [예제] x2=1, x4=0을 할당
+###### [special solution 예제] x2=1, x4=0을 할당
 
 |![](http://cfile24.uf.tistory.com/image/24324939586FB3F72FBEA3)|![](http://cfile24.uf.tistory.com/image/21165643586FB59E2ED21C)|
 |-|-|
 |![](http://cfile26.uf.tistory.com/image/2119E64C586FB8BD14743C) |$$2x_3 = 0 \rightarrow x_3 = 0 $$ <br><br> $$x_1=-2 $$ <br><br> $$ X^T = \{-2,1,0,0\} $$ |
 
-#### B. [예제] x2=0, x4=1을 할당
+###### [special solution 예제] x2=0, x4=1을 할당
 
 |![](http://cfile10.uf.tistory.com/image/2361F75058703AE13A6359)||
 |-|-|
-|![](http://cfile28.uf.tistory.com/image/211D713458703D8A21508F) |$$2x_3 = 0 \rightarrow x_3 = 0 $$ <br><br> $$x_1=-2 $$ <br><br> $$ X^T = \{-2,1,0,0\} $$ |
+|![](http://cfile28.uf.tistory.com/image/211D713458703D8A21508F) | $$x_3=-2$$<br><br> $$x_1=2$$ <br><br> $$ X^T = \{2,0,-2,1\} $$ |
 
 
 
+## 2.3 해 확장 
+|![](http://cfile26.uf.tistory.com/image/2315A73C5870392306694E)|![](http://cfile22.uf.tistory.com/image/251CE43C5870467223FEA6)
+|-|-|
 
+해에 상수 c를 곱하여 새로운 해 찾을수 있음 
 
-## 2.4 해 확장 
+## 2.4 전체 Null Space 정의 
+두 개의 해의 선형 결합(Linear combination)으로 구할수 있음 
+![](http://cfile26.uf.tistory.com/image/2749AD38587049921E5A6B)
 
-![](http://cfile26.uf.tistory.com/image/2315A73C5870392306694E), 해에 상수 c를 곱하여 새로운 해 찾을수 있음 
+---
 
+# 기약행 사다리꼴 행렬(Reduced row echelon form)
+- Echelon form: 행렬 A를 소거하여 U를 만들때 U는 계단 형태일때 
+
+- Reduced row echelon form: Echelon을 좀더 소거(간소화)한 형태 
 
