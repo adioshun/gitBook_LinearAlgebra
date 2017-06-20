@@ -1,39 +1,3 @@
-# 선형성 정의 
-
-행렬 연산을 하려면 선형성을 만족 해야 함. 
-
-선형성 요구 사항 
-- Superposition : $$f(x_1 + x_2) = f(x_1) + f(x_2) $$
-
-- Homogeniety : $$ f(ax) = a f(x) $$
-
-> 합쳐서 $$ f(a_1 x_1 + a_2 x_2) = a_1 f(x_1) + a_2 f(x_2)  $$
-
-`원점을 지나는 평면상의 직선은 선형성을 만족 하며, 백터라고 부름`
-
-
-##### Matrix Form
-$$
- \Rightarrow \begin{bmatrix} 2 & -1 \\ -1 & 2 \end{bmatrix} \begin{bmatrix} x \\ y \end{bmatrix} = \begin{bmatrix} 0 \\ 3 \end{bmatrix} 
-$$
-
-## 2. 선형 시스템 해석 하는 방법 
-
-### 2.1 : Row picture
-
-row form = 내적(Dot Product)
-
-
-$$ 2x -  y = 0 $$ 
-$$ -x + 2y = 3 $$
-
-### 2.2 :  column picture
-
-Column form  = 선형결합(Linear Comnibation)
-
-$$
- x\begin{bmatrix} 2 \\ -1\end{bmatrix} + y\begin{bmatrix} -1 \\ 2 \end{bmatrix} = \begin{bmatrix} 0 \\ 3 \end{bmatrix} 
-$$
 
 
 
