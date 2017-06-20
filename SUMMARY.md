@@ -15,4 +15,7 @@
 * [10\_Fundamental subspaces](10fundamental-subspaces.md)
 * [11\_A\_행렬공간](11a-d589-b82c-acf5-ac04.md)
 * [11\_B\_Ran 1 행렬](11b-ran-1-d589-b82c.md)
+* [12\_Graph\_Network\_Incidence Matrices](12graph-network-incidence-matrices.md)
+* 13\_
+* [14\_직교 벡터와 부분 공간](14c9c1-ad50-bca1-d130-c640-bd80-bd84-acf5-ac04.md)
 
