@@ -6,7 +6,7 @@
 
 
 
-- 특징 
+- 성질 
   1. x+y = y +x
   2. x + (y +z ) = (x+y)+z
   3. there is a zero-vector 
