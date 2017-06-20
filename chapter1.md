@@ -52,18 +52,21 @@
 
 > 소거 행렬을 $$ E_{21}$$이라고 표현한 이유는 A의 Row2/Col1(=값 3)을 0으로 만드는 것이 목적이므로 
 
-###### 1. Row1과 Row3은 그대로 유지 하기 위하여 I 행렬로 지정 
+###### Step 1. Row1과 Row3은 그대로 유지 하기 위하여 I 행렬로 지정 
 ![](http://cfile25.uf.tistory.com/image/252B3C45582211FC070F56)
 
-###### 2. Row2는 A의 Row1에 3을 곱하고 Row2에서 이를 뺴준다. (Row3은 아무 역할도 안함)
+###### Step 2. Row2는 A의 Row1에 3을 곱하고 Row2에서 이를 뺴준다. (Row3은 아무 역할도 안함)
 ![](http://cfile9.uf.tistory.com/image/2762593F58234AB60AF0BE)
 
-###### 3. Row3은 A`의 Row2에 2를 곱하고 Row3에서 이를 뺴준다. 
+###### Step 3. Row3은 A`의 Row2에 2를 곱하고 Row3에서 이를 뺴준다. 
 ![](http://cfile3.uf.tistory.com/image/254C143F582353E038D2FD)
-- 소거 행렬 $$ E_{32}$$ 를 생성 하는것 
+
 - 산출물은 U 행렬
 
-###### 정리 $$ (E_{32}E_{21}) A = u \Rightarrow EA=u $$
+###### 최종 정리 
+
+|$$ (E_{32}E_{21}) A = u \Rightarrow EA=u $$|
+|-|
 
 
 
