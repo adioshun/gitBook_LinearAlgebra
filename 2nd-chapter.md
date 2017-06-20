@@ -24,6 +24,7 @@
 
 
 
+
 > 출처: [Learn Again! 러너게인](http://twlab.tistory.com/entry/Linear-Algebra-Lecture-4-행렬-분해Factorization-ALU)
 
 
