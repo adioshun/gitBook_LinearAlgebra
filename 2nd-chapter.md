@@ -2,7 +2,7 @@
 # LU 분할
 
 ## 1 용어 정리 
-###### Decomposition/Factorization
+###### 분할(Decomposition/Factorization)이란
 어떤 행렬(Matrix)을 여러 행렬들의 곱으로 표현하는 것 = cf.인수분해
 - 인수 분해 : 방정식을 좀 더 알아보기 쉽게, 특수한 상황에서 문제를 풀기 쉽게
 
@@ -65,30 +65,6 @@ A = L+ D + U = 하삼각행렬(Lower Triangular Matrix) + Pivot들만 있는 대
 |없음|A=LU|위의 기본 방식(2,3)|
 |필요|PA=LU| 치환행렬(p)을 곱해 줌(4)|
 
-
-## 4. (치환행렬을 이용한) LU 분할
-
-가우스 소거법시 행교환이 필요한 경우 
-
-### 4.1 치환행렬 Permutation matrix(p)
-- Pivoting = Row Exchange을 행렬로 표시
-
-- has the same rows with Identity Matrix
-- There is a single '1' in every rows and column
-
-- 치환 행렬의 조합의 개수: n!(factorial). 즉 n=3, 3x2x1=6가지의 조합
-
-- 다시 원래대로 되돌려 놓으려면 어떻게 해야 할까? 바로 역행렬을 곱해주면 되는데,
-
-
-- $$P_{21} $$ = 2번행렬와 1번 행렬을 서로 바꿈
-$$
-\begin{bmatrix}0 & 1 & 0 \\1 & 0 & 0 \\ 0 & 0 & 1 \end{bmatrix}
-$$
-
-$$P^{-1} = P^{T} $$ :P의 역행렬은 Transform하면 된다.
-
-![](http://cfile27.uf.tistory.com/image/27291246586247DD196141)
 
 ----
 ## 1.5 Triangular Factors   
