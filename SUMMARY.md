@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [GLOSSARY.md](glossary.md)
 * [01\_The Geometry of Linear Equations](01the-geometry-of-linear-equations.md)
+* [01\_The Geometry of Linear Equations](01the-geometry-of-linear-equations.md)
 * [5th\_백터공간과열백터공간](5thbc31-d130-acf5-ac04-acfc-c5f4-bc31-d130-acf5-ac04.md)
 * [6th\_영백터공간과 해집](6thc601-bc31-d130-acf5-ac04-acfc-d574-c9d1.md)
 * [02\_가우스소거법](chapter1.md)
@@ -13,6 +14,5 @@
 * [06\_Column Space\_Null Space](06column-space-nullspace.md)
 * [07\_Null space구하기\_기약행사다리꼴행렬](07nullspace-algorithm.md)
 * [08\_Ax=0의 Complete solution](08ax-0c758-complete-solution.md)
-* [09\_선형독립\_Span\_기저\_차원](9c120-d615-b3c5-b9bd-span-ae30-c800-cc28-c6d0.md)
 * [01\_The Geometry of Linear Equations](01the-geometry-of-linear-equations.md)
 
