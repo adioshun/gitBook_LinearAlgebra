@@ -2,13 +2,14 @@
 - Ax = 0에서 A를 소거 
 
 ## 1. 소거를 통해 U구하기 
-###### 1번쨰 피봇 계산
+
+###### Step. 1번쨰 피봇 계산
 ![](http://cfile25.uf.tistory.com/image/26778933586E57E62F758E)
 
 Step 1 : (2)에서 Low 1에 x2를 하여 Low 2를 뺀값
 Step 2 : (2)에서 Low 1에 x3를 하여 Low 3를 뺀값
 
-###### 2번쨰 피봇 계산 
+###### Step. 2번쨰 피봇 계산 
 ![](http://cfile10.uf.tistory.com/image/22762843586E59662A2345)
 
 두번째Row가 `0`임 -> 세번쨰 Row와 `행교환`필요 -> 세번째 Row도 `0` 
