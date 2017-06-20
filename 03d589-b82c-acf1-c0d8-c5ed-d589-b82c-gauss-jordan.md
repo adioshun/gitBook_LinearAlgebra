@@ -3,12 +3,23 @@
 > [다시 살펴 보기](http://twlab.tistory.com/entry/%ED%96%89%EB%A0%AC%EA%B3%B1%EC%85%89Matrix-multiplication-%EC%97%AD%ED%96%89%EB%A0%ACInverse-matrix-%EA%B7%B8%EB%A6%AC%EA%B3%A0-GaussJordan)
 
 # 1 Row x column 방법 
-
+ regular way – 성분 별 dot product
+ 
+![](http://judis.me/wordpress/wp-content/ql-cache/quicklatex.com-544598bfa4d6c8faa382ee2309e44042_l3.svg)
 # 2 Column-wise방법 
-
+column way – 열들의 선형 결합
+ 
+![](http://judis.me/wordpress/wp-content/ql-cache/quicklatex.com-2dea63b41d84ec441b1aab855febdd45_l3.svg)
 # 3 Row-wise 방법 
+ row way – 행들의 선형 결합
+
+![](http://judis.me/wordpress/wp-content/ql-cache/quicklatex.com-2aa61e9e1cd402efc414a4c70b5aa2ce_l3.svg)
 
 # 4 column x row 방법 
+
+A 의 k 번째 열과 B 의 k 번째 행의 곱셈 결과 행렬들을 모두 더함
+
+![](http://judis.me/wordpress/wp-content/ql-cache/quicklatex.com-d35e1f3359644deda510723840574b95_l3.svg)
 
 # 5 Block Multiplication 방법 
 
