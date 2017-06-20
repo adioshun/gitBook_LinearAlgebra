@@ -15,4 +15,5 @@
 * [07\_Null space구하기\_기약행사다리꼴행렬](07nullspace-algorithm.md)
 * [08\_Ax=0의 Complete solution](08ax-0c758-complete-solution.md)
 * [01\_The Geometry of Linear Equations](01the-geometry-of-linear-equations.md)
+* [01\_The Geometry ](01the-geometry.md)
 
