@@ -1,5 +1,11 @@
 $$ f(x) = e^x \Rightarrow 1 + x + \frac{x^2}{2!} + \frac{x^3}{3!}$$ : Taylor Series(??)
 
+$$\begin{bmatrix}
+a & b \\
+c & d \end
+{bmatrix}$$
+
+
 ## Commutative
 교환법칙이 성립하는
 
