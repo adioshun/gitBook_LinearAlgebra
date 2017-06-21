@@ -44,7 +44,7 @@ y = 3x 에서 대수는 x,y  /3는 계수
 - 양수 = 양정치(Positive-definite Matrix)
  
 # 선형대수학과 머신러닝 
-- 머신러닝 = 데이터를 처리 = 방정식을 풀어 해를 구한다 = 방정식을 푸는 방법이 `선형대수`
+머신러닝 = 데이터를 처리 = 방정식을 풀어 해를 구한다 = 방정식을 푸는 방법이 `선형대수`
  
 ###### 딥러닝을 위한 선형 대수 요약본 by [Ian Goodfellow](https://1drv.ms/b/s!AkdMyVHUt0bovVHUBxOQsaeKYnSo)
 - Scalars/Vectors/Matrices/Tensors
