@@ -46,18 +46,27 @@ y = 3x 에서 대수는 x,y  /3는 계수
 # 선형대수학과 머신러닝 
 - 머신러닝 = 데이터를 처리 = 방정식을 풀어 해를 구한다 = 방정식을 푸는 방법이 `선형대수`
  
-- 딥러닝을 위한 선형 대수 요약본 by Ian Goodfellow
+###### 딥러닝을 위한 선형 대수 요약본 by Ian Goodfellow
 
-- Linear Algebra Review by Andrew NG  
- 
+######  Linear Algebra Review by Andrew NG  
 
+###### [머신러닝 기초 - 선형 대수](https://opentutorials.org/module/2336/13156)
+- Matrix란 무엇인가?
+- Linearly independent
+- Rank
+- Vector space
+- Subspace , ColumnSpace , NullSpace
+- Orthogonality와 projection
+- determinant
+- eigen vector와 eigen value
+
+###### Facebook 조언
 (1) 가우스 소거법이 어떤 거구나
 (2) 벡터 공간과 부벡터 공간에 대한 개념적 이해
 (3) 선형변환, 선형독립, 선형결합, Projection 등에 대한 개념적 이해
 (4) 행렬 판별식과 eigenvalue, eigenvector에 대한 개념적 이해
 (5) Singular에 대한 개념적 이해
- 
- 
+
  
 # 참고 강의 
 
@@ -81,15 +90,7 @@ y = 3x 에서 대수는 x,y  /3는 계수
 - [백터 탐구 생활](https://m.blog.naver.com/laonple/220949928793)
 
  
-###### [머신러닝 기초 - 선형 대수](https://opentutorials.org/module/2336/13156)
-- Matrix란 무엇인가?
-- Linearly independent
-- Rank
-- Vector space
-- Subspace , ColumnSpace , NullSpace
-- Orthogonality와 projection
-- determinant
-- eigen vector와 eigen value
+
 
 
 
