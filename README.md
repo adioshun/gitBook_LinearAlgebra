@@ -47,6 +47,22 @@ y = 3x 에서 대수는 x,y  /3는 계수
 - 머신러닝 = 데이터를 처리 = 방정식을 풀어 해를 구한다 = 방정식을 푸는 방법이 `선형대수`
  
 ###### 딥러닝을 위한 선형 대수 요약본 by [Ian Goodfellow](https://1drv.ms/b/s!AkdMyVHUt0bovVHUBxOQsaeKYnSo)
+- Scalars/Vectors/Matrices/Tensors
+- Matrix Transpose
+- Matrix (Dot) Product 
+- Identity Matrix 
+- Systems of Equations 
+- Solving Systems of Equations
+- Matrix Inversion 
+- Invertibility
+- Norms
+- Special Matrices and Vectors: Unit vector, Symmetric Matrix, Orthogonal matrix
+- Eigendecomposition
+- Eﬀect of Eigenvalues
+- Singular Value Decomposition
+- Moore-Penrose Pseudoinverse
+- Computing the Pseudoinverse
+
 
 ######  Linear Algebra Review by [Andrew NG](https://1drv.ms/b/s!AkdMyVHUt0bovVKnpYOUAU7v194F)
 
