@@ -72,6 +72,9 @@ y = 3x 에서 대수는 x,y  /3는 계수
 |5 - (2) 벡터 공간(Vector Spaces), 부분 공간(Sub Spaces) |note 5: Transposes, permutations, space R^n|5강 벡터공간과 열벡터공간|
 
 
+|Prezi정리|http://prezi.com/eidhydrvbwmp/?utm_campaign=share&utm_medium=copy&rc=ex0share|
+|-|-|
+
 ###### 라온피플 [수학포기 금지](https://m.blog.naver.com/laonple/220925319311)
 - <del>[Intro](https://m.blog.naver.com/laonple/220925319311)</del>
 - <del>[선형대수 정의](https://m.blog.naver.com/laonple/220930613080)</del>

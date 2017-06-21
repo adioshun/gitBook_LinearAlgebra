@@ -21,5 +21,6 @@
 * [15\_A\_Solving Ax=b when there is no solution](15a-d574-ac00-c874-c7ac-d558-c9c0-c54a-b294-c120-d615-c5f0-b9bd-bc29-c815-c2dd-c758-d574.md)
 * [15\_B\_투영행렬과 부분 공간](15b-d22c-c601-d589-b82c-acfc-bd80-bd84-acf5-ac04.md)
 * [16\_투영행렬과 최소자승법](16d22c-c601-d589-b82c-acfc-cd5c-c18c-c790-c2b9-bc95.md)
-* [17\_A\_직교행렬\_그람 슈미트 과정](17a-c9c1-ad50-d589-b82c-adf8-b78c-c288-bbf8-d2b8-acfc-c815.md)
+* [17\_직교행렬\_그람 슈미트 과정](17a-c9c1-ad50-d589-b82c-adf8-b78c-c288-bbf8-d2b8-acfc-c815.md)
+* [18\_행렬식의 특성](18d589-b82c-c2dd-c758-d2b9-c131.md)
 
