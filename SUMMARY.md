@@ -23,4 +23,7 @@
 * [16\_투영행렬과 최소자승법](16d22c-c601-d589-b82c-acfc-cd5c-c18c-c790-c2b9-bc95.md)
 * [17\_직교행렬\_그람 슈미트 과정](17a-c9c1-ad50-d589-b82c-adf8-b78c-c288-bbf8-d2b8-acfc-c815.md)
 * [18\_행렬식의 특성](18d589-b82c-c2dd-c758-d2b9-c131.md)
+* [19\_행렬식\(Determinant\)의 계산 방법과 여인수\(Cofactor\)](19d589-b82c-c2dd28-determinant-c758-acc4-c0b0-bc29-bc95-acfc-c5ec-c778-c21828-cofactor.md)
+* [20\_A\_Determinant\_Inverse Matrix\_Cramer's Rule](20d589-b82c-c2dd28-determinant-acfc-c5ed-d589-b82c28-inverse-matrix-adf8-b9ac-ace0-d06c-b798-ba38-acf5-c2dd28-cramer-s-rule.md)
+* [20\_B\_Determinant\_Geometrical Analysis](20b-determinant-geometrical-analysis.md)
 
