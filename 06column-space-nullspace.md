@@ -13,18 +13,24 @@
 cf. 열백터(=열행렬) : 크기가 n x 1 인 행렬, 한열만 있는 행렬 
 - $$A^T = [a_1 a_2 a_3 a_4 ....a_n] $$
 
-
+의의
+- 열공간을 통행 Ax = b 라는 선형 방정식의 Solution 존재 여부를 알 수 있음
 
 |![](http://cfile21.uf.tistory.com/image/26736144585E8B0A142287)|![](http://cfile28.uf.tistory.com/image/274ECC36585E93B61062DA)|
 |-|-|
 |기본|모든 선형 결합(임이의 +,x으로 이루어짐)
 
-열공간이 중요한 이유는, 이를 통해 Ax = b 라는 선형 방정식의 Solution 존재 여부를 알 수 있기 때문이다. 다음의 예를 보면,
-
 
 ---
 
-# Null Space 
+# Null Space of A 
+
+표기 : N(A)
+
+정의 
+- Set of vetctor such that Ax=0
+
+- N(A) = {x | Ax =0}
 
 부분 공간의 일종 
 - Ax=0의 해(Solutions)들이 이루는 공간
