@@ -1,6 +1,6 @@
 # The Geometry of Linear Equations
 
-## 선형성 정의 
+## 1. 선형성 정의 
 
 행렬 연산을 하려면 선형성을 만족 해야 함. 
 

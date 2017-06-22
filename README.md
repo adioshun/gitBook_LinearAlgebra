@@ -1,3 +1,5 @@
+https://mind42.com/mindmap/d4782e87-ce92-44f3-a71a-d74e1a290843
+
 # 용어 정리 
 
 ## 1 선형
