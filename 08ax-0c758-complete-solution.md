@@ -1,5 +1,16 @@
 # Ax=b의 완전해(complete solution)
 
+한양대 강의, 선형대수 7강 벡터의 선형독립과 기저벡터: 00:00 ~ 27:00
+
+
+||Finding the solution Ax = b |
+|-|-|
+|1|[A\|b] -가우스 소거법-> [R\|d]<br> . R=기약행렬|
+|2|Seperate : pivot variable & free variable |
+|3|Find the Special solution for null space from R|
+|4|Find the particular solution|
+ 
+
 ## 1. 해가 존재 하는지 알아 보기
 
 가해 조건 확인 
