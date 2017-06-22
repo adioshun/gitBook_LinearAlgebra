@@ -1,4 +1,7 @@
-# Null Space 계산 알고리즘 
+# Null Space 계산 알고리즘
+
+[ 한양대 Youtube 강의](https://youtu.be/dq48fy5Qub8?t=33m42s)
+
 1. Ax = 0
 2. Ux = 0
 3. Rx = 0
