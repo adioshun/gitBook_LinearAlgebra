@@ -5,6 +5,8 @@ a & b \\
 c & d \end
 {bmatrix}$$
 
+## span
+Whole space is constructed by linear combination
 
 ## Commutative
 교환법칙이 성립하는
