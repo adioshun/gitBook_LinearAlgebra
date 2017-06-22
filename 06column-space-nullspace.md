@@ -11,7 +11,7 @@
 ![](http://cfile10.uf.tistory.com/image/24278237550B9C67058A76)
 
 cf. 열백터(=열행렬) : 크기가 n x 1 인 행렬, 한열만 있는 행렬 
-- $$A^T = [a_1 a_2 a_3 a_4 ....a_n] $$
+- $$ A^T = [a_1 a_2 a_3 a_4 ....a_n] $$
 
 의의
 - 열공간을 통행 Ax = b 라는 선형 방정식의 Solution 존재 여부를 알 수 있음
@@ -30,7 +30,7 @@ cf. 열백터(=열행렬) : 크기가 n x 1 인 행렬, 한열만 있는 행렬
 정의 
 - Set of vetctor such that Ax=0
 
-- N(A) = {x | Ax =0}
+- N(A) = {x | Ax =0} : Ax =0을 만족하는 모든 x의 값 
 
 부분 공간의 일종 
 - Ax=0의 해(Solutions)들이 이루는 공간

@@ -1,7 +1,17 @@
 # Null Space 계산 알고리즘 
-- Ax = 0에서 A를 소거 
+1. Ax = 0
+2. Ux = 0
+3. Rx = 0
 
-## 1. 소거를 통해 U구하기 
+|기약행 사다리꼴을 통해 알수 있는 정보들 |
+|-|
+|![](http://cfile9.uf.tistory.com/image/23176344587101B80F3147)|
+|> A행렬을 줄이고 줄이고 줄여서 가장 간단한 형태인 R로 만들었다|
+|![](http://cfile1.uf.tistory.com/image/242BAF3B587104F32D6FB5)|
+
+
+## 1. Ax=0풀기 
+소거를 통해 U구하기 
 
 ###### Step. 1번쨰 피봇 계산
 ![](http://cfile25.uf.tistory.com/image/26778933586E57E62F758E)
@@ -61,7 +71,8 @@ free columns는 임이의 값을 자유롭게 설정 할수 있음
 
 ---
 
-# 기약행 사다리꼴 행렬(Reduced row echelon form, R)
+# Rx=0 풀기
+기약행 사다리꼴 행렬(Reduced row echelon form, R)
 - Echelon form: 행렬 A를 소거하여 U를 만들때 U는 계단 형태일때 
 
 - Reduced row echelon form: Echelon을 좀더 소거(간소화)한 형태 
@@ -70,14 +81,14 @@ free columns는 임이의 값을 자유롭게 설정 할수 있음
 
 ## 1. 만드는 법
 
-###### Pivot의 아래, 위를 모두 0으로 만듬 
+###### Step 1. Pivot의 아래, 위를 모두 0으로 만듬 
 
 ![](http://cfile10.uf.tistory.com/image/2260034E58F1119E063208)
 
 1을 곱해서 빼준다 
 
 
-###### Pivot의 값을 모두 1로 만든다. 
+###### Step 2. Pivot의 값을 모두 1로 만든다. 
 ![](http://cfile3.uf.tistory.com/image/264EB94A58F111A60D4919)
 
 pivot이 있는 row전체를 pivot으로 나눠주면된다
@@ -87,10 +98,3 @@ pivot이 있는 row전체를 pivot으로 나눠주면된다
 |-|
 |. pivot 원소들은 반드시 1이 되어야 한다. <br>. pivot 원소가 있는 column에서 pivot 변수의 모든 아래/위 원소들은 0이 되어야 한다. <br>. 각 row는 처음 나오는 pivot 원소를 만나기 전까지 모든 원소가 0이어야 한다.<br>. 모든 원소가 0인 row는 반드시 pivot 변수가 있는 row의 밑에 있어야 한다. |
 
-## 2. 기약행 사다리꼴을 통해 알수 있는 정보들 
-![](http://cfile9.uf.tistory.com/image/23176344587101B80F3147)
-
-> A행렬을 줄이고 줄이고 줄여서 가장 간단한 형태인 R로 만들었다
-
-
-![](http://cfile1.uf.tistory.com/image/242BAF3B587104F32D6FB5)
