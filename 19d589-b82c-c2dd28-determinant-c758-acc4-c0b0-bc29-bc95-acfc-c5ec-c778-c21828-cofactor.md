@@ -38,14 +38,8 @@ https://youtu.be/xjoo5Ik0LQA?t=48m50s
 정의($$C_{11}$$) : $$a_{11}$$ 요소가 포함된 행열을 제외한 값을 이용해 submatrix를 만들고, 이 submatrix의 def 를 여인수라 함
 
 
-$$
+$$ C_{ij} = (-1)^{i+j} \det M_{ij}  $$
+> M= Minor maxtix = submatrix 
 
-C_{ij} = (-1)^{i+j} \det M_{ij}  
-
-$$
- M= Minor maxtix = submatrix 
-
-## 여인수를 이용하여 def A구하기 
-
-det A = $$   \sum_{j=1}^{n} a_{ij}C_{ij}        $$
+여인수를 이용하여 def A구하기 : det A = $$   \sum_{j=1}^{n} a_{ij}C_{ij}        $$
 
