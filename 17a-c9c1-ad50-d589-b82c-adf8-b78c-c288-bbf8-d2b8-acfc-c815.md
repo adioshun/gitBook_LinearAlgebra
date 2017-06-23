@@ -85,7 +85,7 @@ If given imdependent vectors a1, a2, a3.....an
 
 |그람-슈미트 과정은 이렇게 독립인 벡터들을 정규직교벡터로 만들어준다|
 |-|
-|직교벡터를 구하는 Gram-Schmidt orthogonalization 방법|
+
 
 
 ![](http://cfile24.uf.tistory.com/image/2109994B58ECFADB324EF0)
@@ -96,6 +96,11 @@ If given imdependent vectors a1, a2, a3.....an
 2. [슈미트(schmidt)의 아이디어] 직교 벡터인 q1, q2를 정규직교벡터(orthonormal vector)로 만드는 것이다. 
     - 이는 q1과 q2를 각각 자신의 크기로 나누어주면 된다. 
 
+||||
+|-|-|-|
+|1|첫번째 백터 a를 크기가 1이 되도록 Normalization|$$a \rightarrow \frac{a}{||a||}  =q_1  $$|
+|2|두번째 백터 b를 $$q_1$$에 투영||
+|??|||
 
 ### 3.1 Making Orthogonal Vectors (by Gram)
 
