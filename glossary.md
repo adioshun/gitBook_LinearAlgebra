@@ -56,6 +56,9 @@ Whole space is constructed by linear combination
 
 ![](http://kinimage.naver.net/20130815_162/1376499631168KhoO4_PNG/1.png?type=w620)
 
+$$ x = \cos\theta  $$
+$$ y = \sin\theta $$
+
 - 직각 삼각형에서 앞머리의 각에 따라 세변중 두 변 끼리의 **비율** : 삼각비
 - 코사인 = 밑변/빗변
 - 사인 = 높이/빗변

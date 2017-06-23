@@ -78,6 +78,7 @@
 
 |그람-슈미트 과정은 이렇게 독립인 벡터들을 정규직교벡터로 만들어준다|
 |-|
+|직교벡터를 구하는 Gram-Schmidt orthogonalization 방법|
 
 
 ![](http://cfile24.uf.tistory.com/image/2109994B58ECFADB324EF0)
