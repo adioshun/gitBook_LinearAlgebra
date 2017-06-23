@@ -1,5 +1,10 @@
 # 직교행렬(Orthogonal Matrices)과 그람 슈미트 과정(Gram-Schmidt Process)
 
+If given imdependent vectors a1, a2, a3.....an
+- find the Orthogonal basis vectors : 그람 슈미츠 과정 이용
+- Linear combination을 쉽게 처리 할수 있음 
+
+
 직교 행렬
 - 모든 column vector가 자기 자신을 제외한 나머지 모든 column vector들과 직교
 - 크기가 1인 단위 벡터들로 구성된 행렬
@@ -72,6 +77,8 @@
 
 
 ## 3. 그람-슈미트 과정(Gram-Schmidt Process)
+
+[한양대 Youtube 강의](https://youtu.be/Vx1IZ3lGRCM?t=31m20s)
 
 그람-슈미트 과정(Gram-Schmidt Process): 행렬 A의 column vector를 orthonormal column들로 바꾸는 것
 - 즉 행렬 A를 정규직교벡터(orthonormal vector)들로 이루어진 직교 행렬(orthogonal matrix) Q로 만드는 것
