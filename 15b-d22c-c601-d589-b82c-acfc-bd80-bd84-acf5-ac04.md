@@ -5,7 +5,7 @@
 
 투영을 공부 하는 이유
 - overdetermined case에서 근접한 해를 구하는 것이 목표 
-- 근접한 해를 구하기 위해 b를 A의 column space에서 가장 근접한 벡터로 치환(=투영)하여 문제 해결
+- 근접한 해를 구하기 위해 b를 A의 column space에서 가장 근접(=거리짧은)한 벡터로 치환(=투영)하여 문제 해결
 
 ![](http://cfile25.uf.tistory.com/image/220DC44F58D2587B1EE6FF)
 
@@ -16,7 +16,7 @@
 
 두 벡터 a와 b를 나타내고 있다
 
-    
+
 #### A 투영(Projection, P)
 - 초록색 백터,  $$p=xa$$ 
     - 스케일 상수 x를 찾는 것이 목표 
