@@ -7,9 +7,7 @@
 - (행교환 있을 경우)PA = LDU $$\rightarrow$$ det p = $$\pm 1 $$
      
 
-## 2. 주요 3성질 이용
-
-
+## 2. Big Formula
 
 ### 2.1 2x2행렬
 $$\begin{bmatrix}
@@ -41,5 +39,7 @@ https://youtu.be/xjoo5Ik0LQA?t=48m50s
 $$ C_{ij} = (-1)^{i+j} \det M_{ij}  $$
 > M= Minor maxtix = submatrix 
 
-여인수를 이용하여 def A구하기 : det A = $$   \sum_{j=1}^{n} a_{ij}C_{ij}        $$
+여인수를 이용하여 def A구하기 
+
+$$ \det A =    \sum_{j=1}^{n} a_{ij}C_{ij} = \sum_{j=1}^{n} a_{ij}(-1)^{i+j} \det(M_{ij})        $$
 
