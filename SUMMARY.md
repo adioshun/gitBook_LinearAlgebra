@@ -27,4 +27,5 @@
 * [20\_A\_Determinant\_Inverse Matrix\_Cramer's Rule](20d589-b82c-c2dd28-determinant-acfc-c5ed-d589-b82c28-inverse-matrix-adf8-b9ac-ace0-d06c-b798-ba38-acf5-c2dd28-cramer-s-rule.md)
 * [20\_B\_Determinant\_Geometrical Analysis](20b-determinant-geometrical-analysis.md)
 * [21\_고유값\_고유벡터](21ace0-c720-ac12-ace0-c720-bca1-d130.md)
+* [Chaper09\_선형변환과 행렬](chaper09c120-d615-bcc0-d658-acfc-d589-b82c.md)
 
