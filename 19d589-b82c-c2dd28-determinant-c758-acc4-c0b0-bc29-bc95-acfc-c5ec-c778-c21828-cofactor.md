@@ -6,11 +6,30 @@
 - (행교환 없을 경우) A = LDU에서 $$\rightarrow$$ det a = det L x det D x det U $$\rightarrow$$ 1 x $$ \prod_{i=1}^n P_i $$ x 1  
 - (행교환 있을 경우)PA = LDU $$\rightarrow$$ det p = $$\pm 1 $$
      
-    
-    
-## 2. Determinant split
+
+## 2. 주요 3성질 이용
+
+
+
+### 2.1 2x2행렬
+$$\begin{bmatrix}
+a & b \\
+c & d \end
+{bmatrix}$$ = ad -bc
+
+### 2.2 3x3 행렬
 
 Big Formula
+
+[한양대 Youtube 강의: 16강 판별식의 공식](https://youtu.be/xjoo5Ik0LQA?t=30m19s)
+
+
+
+
+
+   
+    
+
 
 
 ---
