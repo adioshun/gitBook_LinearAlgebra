@@ -34,39 +34,7 @@ row space를 column vector로 표현하려면 어떻게 해야 할까? 바로 A�
 > Left null space - null space of $$A^T$$ = $$N(A^T)$$
 
 
-# 문제 풀이 
 
-원식 = $$\begin{bmatrix}
-1 & 2 \\
-3 & 6 \end
-{bmatrix}$$
-
-## 1. column space : $$C(A)$$
-
-원식을 RRF으로 변경
-$$\begin{bmatrix}
-1 & 2 \\
-0 & 0 \end
-{bmatrix}$$
-
-피봇인 것은 1 하나 = Linerly indepenence 
-
-
-C(A) = c$$\begin{bmatrix}
-1  \\
-3  \end
-{bmatrix}$$ 
-
-## 2.  Null space : $$N(A)$$
-
-Free variable 구해서 
-
-
-## 3. Row space : $$C(A^T)$$
-
-
-
-## 4. Left null space: $$N(A^T)$$
 
 
 
