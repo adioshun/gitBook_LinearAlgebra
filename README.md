@@ -40,6 +40,9 @@ y = 3x 에서 대수는 x,y  /3는 계수
 
 - 벡터(Vector)와 행렬(Matrix)를 배우는 학문
 
+
+<iframe width='640' height='480' frameborder='0' src='https://mind42.com/mindmap/d4782e87-ce92-44f3-a71a-d74e1a290843?rel=embed'></iframe>
+
 ###### 백터와 행렬을 이용한 산수/산수와의 유사성
 - 수의 닫힘 집합 = 벡터 공간 
 - 절대값 = 행렬값(Determinant)
