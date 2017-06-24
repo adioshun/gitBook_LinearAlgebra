@@ -40,9 +40,6 @@ y = 3x 에서 대수는 x,y  /3는 계수
 
 - 벡터(Vector)와 행렬(Matrix)를 배우는 학문
 
-
-<iframe width='640' height='480' frameborder='0' src='https://mind42.com/mindmap/d4782e87-ce92-44f3-a71a-d74e1a290843?rel=embed'></iframe>
-
 ###### 백터와 행렬을 이용한 산수/산수와의 유사성
 - 수의 닫힘 집합 = 벡터 공간 
 - 절대값 = 행렬값(Determinant)
@@ -90,16 +87,6 @@ y = 3x 에서 대수는 x,y  /3는 계수
 
  
 # 참고 강의 
-
-
-|Learn Again|MIT강의|한양대|
-|-|-|-|
-|1, The Geometry of Linear Equations|note 1: Geometry of linear equations |1강 선형성 정의 및 1차 연립방정식의 의미|
-|2, 소거법, 후방 대입법 그리고 소거 행렬|note 2: Elimination with Matrices|1차 연립방정식과 가우스소거법| 
-|3, 행렬곱셉(Matrix multiplication), 역행렬(Inverse matrix) 그리고 Gauss-Jordan|note 3: Multiplication and Inverse Matrices|4강 역행렬과 전치행렬|
-|4, LU Decomposition(분해)|note 4: Factorization into A = LU|3강 LU 분할|
-|5 - (1) 치환행렬(Permutations), 전치(Transposes) 그리고 대칭 행렬(Symmetric Matrix)|note 5: Transposes, permutations, space R^n| 4강 역행렬과 전치행렬|
-|5 - (2) 벡터 공간(Vector Spaces), 부분 공간(Sub Spaces) |note 5: Transposes, permutations, space R^n|5강 벡터공간과 열벡터공간|
 
 
 |Prezi정리|http://prezi.com/eidhydrvbwmp/?utm_campaign=share&utm_medium=copy&rc=ex0share|
