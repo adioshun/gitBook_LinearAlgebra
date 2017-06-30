@@ -1,4 +1,6 @@
-https://mind42.com/mindmap/d4782e87-ce92-44f3-a71a-d74e1a290843
+|Prezi정리|http://prezi.com/eidhydrvbwmp/?utm_campaign=share&utm_medium=copy&rc=ex0share|
+|-|-|
+|마인드맵정리|https://mind42.com/mindmap/d4782e87-ce92-44f3-a71a-d74e1a290843|
 
 
  
@@ -42,9 +44,9 @@ https://mind42.com/mindmap/d4782e87-ce92-44f3-a71a-d74e1a290843
  
 # 참고 강의 
 
+###### 패턴인식 개론, 한학용, 한빛 미디어 
+- Chapter 2. 선형대수학: 벡터와 행렬
 
-|Prezi정리|http://prezi.com/eidhydrvbwmp/?utm_campaign=share&utm_medium=copy&rc=ex0share|
-|-|-|
 
 ###### 라온피플 [수학포기 금지](https://m.blog.naver.com/laonple/220925319311)
 - <del>[Intro](https://m.blog.naver.com/laonple/220925319311)</del>
@@ -52,14 +54,10 @@ https://mind42.com/mindmap/d4782e87-ce92-44f3-a71a-d74e1a290843
 - [백터 탐구 생활](https://m.blog.naver.com/laonple/220949928793)
 
  
-
-
-
-
 ###### [Diamond Shore](http://blog.naver.com/dydrogud22)
 
   
-###### Lear Again 블로그 
+###### Lear Again 블로그 (강추)
 - 1, The Geometry of Linear Equations (1)
 - 1, The Geometry of Linear Equations (2)
 - 2, 소거법, 후방 대입법 그리고 소거 행렬
@@ -123,6 +121,63 @@ https://mind42.com/mindmap/d4782e87-ce92-44f3-a71a-d74e1a290843
 
 
 
+
+
+
+ 
+###### [한양대 이상화 교수 강좌](https://www.youtube.com/playlist?list=PLSN_PltQeOyjDGSghAf92VhdMBeaLZWR3)  [[강의자료]](http://www.kocw.net/home/search/kemView.do?kemId=977757)
+
+- Chapter 1강 선형성 정의 및 1차 연립방정식의 의미
+- Chapter 2강 1차 연립방정식과 가우스소거법
+- Chapter 3강 LU 분할
+- Chapter 4강 역행렬과 전치행렬
+- Chapter 5강 벡터공간과 열벡터공간
+- Chapter 6강 영벡터공간과 해집합
+- Chapter 7강 벡터의 선형독립과 기저벡터
+- Chapter 8강 벡터공간의 차원과 4가지 부벡터공간
+- Chapter 9강 선형변환과 행렬
+- Chapter 10강 벡터의 직교성과 직선투영
+- Chapter 11강 벡터투영과 최소제곱법
+- Chapter 12강 1차연립방정식 풀이와 직교벡터 구하기
+- Chapter 13강 일반최소제곱법과 QR 분할
+- Chapter 14강 함수 공간
+- Chapter 15강 행렬의 판별식
+- Chapter 16강 판별식의 공식
+- Chapter 17강 판별식의 응용
+- Chapter 18강 고유값과 고유벡터 및 대각화
+- Chapter 19강 차분방정식과 고유값
+- Chapter 20강 동질최소제곱법의 해와 마르코프 행렬
+- Chapter 21강 연립미분방정식과 행렬
+- Chapter 22강 복소행렬과 에르미트 행렬
+- Chapter 23강 특이값 분할 (SVD)
+
+
+
+###### 칸 아카데미 [선형대수](https://www.khanacademy.org/math/linear-algebra)
+Vectors and spaces
+- Vectors
+- Linear combinations and spans
+- Linear dependence and independence
+- Subspaces and the basis for a subspace
+- Vector dot and cross products
+- Matrices for solving systems by elimination
+- Null space and column space
+
+Matrix transformations
+- Functions and linear transformations
+- Linear transformation examples
+- Transformations and matrix multiplication
+- Inverse functions and transformations
+- Finding inverses and determinants
+- More determinant depth
+- Transpose of a matrix
+
+Alternate coordinate systems (bases)
+- Orthogonal complements
+- Orthogonal projections
+- Change of basis
+- Orthonormal bases and the Gram-Schmidt process
+- Eigen-everything
 
 #### Linear Algebra and its application [[교재]](https://drive.google.com/file/d/0B6Ry8c3OoOuqcDN6TXQzWlF2V3M/view?usp=sharing)
 
@@ -189,60 +244,6 @@ https://mind42.com/mindmap/d4782e87-ce92-44f3-a71a-d74e1a290843
 
 
 
- 
-###### [한양대 이상화 교수 강좌](https://www.youtube.com/playlist?list=PLSN_PltQeOyjDGSghAf92VhdMBeaLZWR3)  [[강의자료]](http://www.kocw.net/home/search/kemView.do?kemId=977757)
-
-- 선형대수 1강 선형성 정의 및 1차 연립방정식의 의미
-- 선형대수 2강 1차 연립방정식과 가우스소거법
-- 선형대수 3강 LU 분할
-- 선형대수 4강 역행렬과 전치행렬
-- 선형대수 5강 벡터공간과 열벡터공간
-- 선형대수 6강 영벡터공간과 해집합
-- 선형대수 7강 벡터의 선형독립과 기저벡터
-- 선형대수 8강 벡터공간의 차원과 4가지 부벡터공간
-- 선형대수 9강 선형변환과 행렬
-- 선형대수 10강 벡터의 직교성과 직선투영
-- 선형대수 11강 벡터투영과 최소제곱법
-- 선형대수 12강 1차연립방정식 풀이와 직교벡터 구하기
-- 선형대수 13강 일반최소제곱법과 QR 분할
-- 선형대수 14강 함수 공간
-- 선형대수 15강 행렬의 판별식
-- 선형대수 16강 판별식의 공식
-- 선형대수 17강 판별식의 응용
-- 선형대수 18강 고유값과 고유벡터 및 대각화
-- 선형대수 19강 차분방정식과 고유값
-- 선형대수 20강 동질최소제곱법의 해와 마르코프 행렬
-- 선형대수 21강 연립미분방정식과 행렬
-- 선형대수 22강 복소행렬과 에르미트 행렬
-- 선형대수 23강 특이값 분할 (SVD)
-
-
-
-###### 칸 아카데미 [선형대수](https://www.khanacademy.org/math/linear-algebra)
-Vectors and spaces
-- Vectors
-- Linear combinations and spans
-- Linear dependence and independence
-- Subspaces and the basis for a subspace
-- Vector dot and cross products
-- Matrices for solving systems by elimination
-- Null space and column space
-
-Matrix transformations
-- Functions and linear transformations
-- Linear transformation examples
-- Transformations and matrix multiplication
-- Inverse functions and transformations
-- Finding inverses and determinants
-- More determinant depth
-- Transpose of a matrix
-
-Alternate coordinate systems (bases)
-- Orthogonal complements
-- Orthogonal projections
-- Change of basis
-- Orthonormal bases and the Gram-Schmidt process
-- Eigen-everything
 
 
 참고 : [High school statistics](https://www.khanacademy.org/math/probability)
