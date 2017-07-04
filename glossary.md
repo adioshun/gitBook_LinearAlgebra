@@ -47,6 +47,7 @@ Whole space is constructed by linear combination
 표시법 : a·b OR (a, b) 
 두 벡터가 이루는 각의 코사인 값을 구하기 위한 용도로 자주 사용 : $$ab\theta$$ = 두 벡터 a b의 내적
 
+벡터의 내적 공식 = 두 벡터 사이의 각도 구하는 공식
 
 대수학적 적의 : 
 
