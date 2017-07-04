@@ -53,6 +53,9 @@ Whole space is constructed by linear combination
 
 > $$ \theta $$ : 각도 
 
+![](http://i.imgur.com/LFa4BwX.png)
+> [출처](http://mrw0119.tistory.com/12)
+
 ## 코사인,사인,탄젠트
 
 ![](http://kinimage.naver.net/20130815_162/1376499631168KhoO4_PNG/1.png?type=w620)
