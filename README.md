@@ -2,7 +2,10 @@
 |-|-|
 |마인드맵정리|https://mind42.com/mindmap/d4782e87-ce92-44f3-a71a-d74e1a290843|
 
-
+###### 블로그 노트 by [새벽(ldj1725)](http://blog.naver.com/ldj1725)
+- 대학미적분학 (47)
+- 대학선형대수학개론 (55)
+- 대학벡터미적분학 (18) 
  
 ###### 딥러닝을 위한 선형 대수 요약본 by [Ian Goodfellow](https://1drv.ms/b/s!AkdMyVHUt0bovVHUBxOQsaeKYnSo)
 - Scalars/Vectors/Matrices/Tensors
