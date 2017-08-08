@@ -30,4 +30,5 @@
 * [Chaper09\_선형변환과 행렬](chaper09c120-d615-bcc0-d658-acfc-d589-b82c.md)
 * [Chapter14\_함수공간](chapter14d568-c218-acf5-ac04.md)
 * [ref01\_Hyperplane\_초평면](ref01hyperplane-cd08-d3c9-ba74.md)
+* [00\_summary](00summary.md)
 
