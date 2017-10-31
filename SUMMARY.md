@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* -ToRead_LinearAlgebra
 * [GLOSSARY.md](glossary.md)
 * [01\_The Geometry of Linear Equations](01the-geometry-of-linear-equations.md)
 * [02\_가우스소거법](chapter1.md)
