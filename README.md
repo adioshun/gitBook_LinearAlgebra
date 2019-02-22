@@ -7,6 +7,8 @@
 - 대학선형대수학개론 (55)
 - 대학벡터미적분학 (18) 
  
+##### [PinkWink 강의](https://pinkwink.kr/793#gongsu)
+ 
 ###### 딥러닝을 위한 선형 대수 요약본 by [Ian Goodfellow](https://1drv.ms/b/s!AkdMyVHUt0bovVHUBxOQsaeKYnSo)
 - Scalars/Vectors/Matrices/Tensors
 - Matrix Transpose
