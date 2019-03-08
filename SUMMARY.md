@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [README](README.md)
 * [-ToRead\_LinearAlgebra](-toreadlinearalgebra.md)
 * [GLOSSARY.md](glossary.md)
 * [01\_The Geometry of Linear Equations](01the-geometry-of-linear-equations.md)
@@ -32,4 +32,5 @@
 * [Chapter14\_함수공간](chapter14d568-c218-acf5-ac04.md)
 * [ref01\_Hyperplane\_초평면](ref01hyperplane-cd08-d3c9-ba74.md)
 * [00\_summary](00summary.md)
+* [References](references.md)
 
