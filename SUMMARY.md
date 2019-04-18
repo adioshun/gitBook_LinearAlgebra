@@ -1,8 +1,18 @@
 # Summary
 
+## 선형대수학 
+
 * [README](README.md)
 * [-ToRead\_LinearAlgebra](-toreadlinearalgebra.md)
 * [GLOSSARY.md](glossary.md)
+* [ref01\_Hyperplane\_초평면](ref01hyperplane-cd08-d3c9-ba74.md)
+* [00\_summary](00summary.md)
+* [References](references.md)
+
+
+
+## 강의 
+
 * [01\_The Geometry of Linear Equations](01the-geometry-of-linear-equations.md)
 * [02\_가우스소거법](chapter1.md)
 * [03\_행렬곱샘\_역행렬\_Gauss-Jordan](03d589-b82c-acf1-c0d8-c5ed-d589-b82c-gauss-jordan.md)
@@ -30,7 +40,5 @@
 * [21\_고유값\_고유벡터](21ace0-c720-ac12-ace0-c720-bca1-d130.md)
 * [Chaper09\_선형변환과 행렬](chaper09c120-d615-bcc0-d658-acfc-d589-b82c.md)
 * [Chapter14\_함수공간](chapter14d568-c218-acf5-ac04.md)
-* [ref01\_Hyperplane\_초평면](ref01hyperplane-cd08-d3c9-ba74.md)
-* [00\_summary](00summary.md)
-* [References](references.md)
+
 
