@@ -36,7 +36,9 @@ Whole space is constructed by linear combination
 스칼라(Scalar)는 무엇인가? 진짜숫자이다. 뭔가 추상적인 개념이 아니라 3,4와 같이 실체가 있는 숫자
 
 
-## 내적 (=스칼라곱)
+## 외적(外積, outer product or cross product)
+
+## 내적 (=스칼라곱, inner product or dot product))
 - 벡터끼리 곱한 결과는 '내적'이라고 불리는 수
 - 임의의 두 벡터 a, b에 대해 하나의 스칼라량을 대응시키는 연산
     - dot(a,b)=sum(a.*b) = eg.33 
