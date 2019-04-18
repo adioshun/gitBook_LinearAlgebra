@@ -7,7 +7,7 @@
 * [ref01\_Hyperplane\_초평면](ref01hyperplane-cd08-d3c9-ba74.md)
 * [00\_summary](00summary.md)
 * [References](references.md)
-* [MindMap](https://mind42.com/mindmap/d4782e87-ce92-44f3-a71a-d74e1a290843)
+* [MindMap](https://mind42.com/public/d4782e87-ce92-44f3-a71a-d74e1a290843)
 
 ## 강의
 
