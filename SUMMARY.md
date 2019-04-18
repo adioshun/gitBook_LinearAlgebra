@@ -3,7 +3,6 @@
 ## 선형대수학
 
 * [README](README.md)
-* [-ToRead\_LinearAlgebra](-toreadlinearalgebra.md)
 * [GLOSSARY.md](glossary.md)
 * [ref01\_Hyperplane\_초평면](ref01hyperplane-cd08-d3c9-ba74.md)
 * [00\_summary](00summary.md)
