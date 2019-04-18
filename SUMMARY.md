@@ -1,6 +1,6 @@
 # Summary
 
-## 선형대수학 
+## 선형대수학
 
 * [README](README.md)
 * [-ToRead\_LinearAlgebra](-toreadlinearalgebra.md)
@@ -10,9 +10,7 @@
 * [References](references.md)
 * [MindMap](https://mind42.com/mindmap/d4782e87-ce92-44f3-a71a-d74e1a290843)
 
-
-
-## 강의 
+## 강의
 
 * [01\_The Geometry of Linear Equations](01the-geometry-of-linear-equations.md)
 * [02\_가우스소거법](chapter1.md)
@@ -28,7 +26,7 @@
 * [11\_A\_행렬공간](11a-d589-b82c-acf5-ac04.md)
 * [11\_B\_Rank 1 행렬](11b-ran-1-d589-b82c.md)
 * [12\_Graph\_Network\_Incidence Matrices](12graph-network-incidence-matrices.md)
-* 13\_
+* [13\_](13.md)
 * [14\_직교 벡터와 부분 공간](14c9c1-ad50-bca1-d130-c640-bd80-bd84-acf5-ac04.md)
 * [15\_A\_Solving Ax=b when there is no solution](15a-d574-ac00-c874-c7ac-d558-c9c0-c54a-b294-c120-d615-c5f0-b9bd-bc29-c815-c2dd-c758-d574.md)
 * [15\_B\_투영행렬과 부분 공간](15b-d22c-c601-d589-b82c-acfc-bd80-bd84-acf5-ac04.md)
@@ -41,5 +39,4 @@
 * [21\_고유값\_고유벡터](21ace0-c720-ac12-ace0-c720-bca1-d130.md)
 * [Chaper09\_선형변환과 행렬](chaper09c120-d615-bcc0-d658-acfc-d589-b82c.md)
 * [Chapter14\_함수공간](chapter14d568-c218-acf5-ac04.md)
-
 

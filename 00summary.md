@@ -1,8 +1,7 @@
 [선형대수학 강좌](https://www.youtube.com/playlist?list=PLSN_PltQeOyjDGSghAf92VhdMBeaLZWR3): 이상화 교수, [[교재]](http://www.kocw.net/home/search/kemView.do?kemId=977757)
 
 
-#
-선형성 정의
+# 선형성 정의
 
 행렬 연산을 하려면 선형성을 만족 해야 함.
 
@@ -37,13 +36,13 @@ Singular case
 Matrix로 표현 = upper Triangular U
 
 ## Breakdown
+
 - pivot에 `0`이 존재 하여 가우스 소거법을 사용 못할경우, 순서를 바꾸어 문제 해결 --> pivoting 
 
 ## 1.4 Matrix Multiplication
 
 
-#
-3강 LU 분할
+# 3강 LU 분할
 
 ## 1.5 Triangular Factors
 
@@ -56,6 +55,7 @@ Lower Triangular matrix * Upper Triangular matrix
 > ? 가우시안 소거법을 행렬로 표현 -> Elementary Matrix $$ E_{31}E_{21} A $$ => U (upper triangular matrix)
 
 ###### Elementary Matrix in GE
+
 $$
 E_{21} = \begin{bmatrix}1 & 0 & 0 \\-l_{21} & ? & ? \\0 & 0 & 1 \end{bmatrix}
 $$
@@ -132,8 +132,7 @@ $$
 $$P^{-1} = P^{T} $$ :P의 역행렬은 Transform하면 된다.
 
 
-#
-# 1.6 Inverse & Transpose
+## 1.6 Inverse & Transpose
 
 ### A. Inverse(역행렬)
 
