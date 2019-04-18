@@ -2,6 +2,11 @@
 |-|-|
 |마인드맵정리|https://mind42.com/mindmap/d4782e87-ce92-44f3-a71a-d74e1a290843|
 
+
+
+- [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) : A visual understanding
+
+
 ###### 블로그 노트 by [새벽(ldj1725)](http://blog.naver.com/ldj1725)
 - 대학미적분학 (47)
 - 대학선형대수학개론 (55)
