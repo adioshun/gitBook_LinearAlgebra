@@ -8,6 +8,7 @@
 * [00\_summary](00summary.md)
 * [References](references.md)
 * [MindMap](https://mind42.com/public/d4782e87-ce92-44f3-a71a-d74e1a290843)
+* [기하와 벡터](ae30-d558-c640-bca1-d130.md)
 
 ## 강의
 
