@@ -24,8 +24,7 @@ Singular case
 - 평행한 경우 (닶이 없음)
 - 겹침 (답이 무수히 많음)
 
-2. Column form
--
+2. Column form 
 
 ## 가우스 소거법
 - 연립 방정식을 푸는 방법
