@@ -3,10 +3,7 @@
 ## 선형대수학
 
 * [README](README.md)
-* [GLOSSARY.md](glossary.md)
-* [ref01\_Hyperplane\_초평면](ref01hyperplane-cd08-d3c9-ba74.md)
 * [00\_summary](00summary.md)
-* [References](references.md)
 * [MindMap](https://mind42.com/public/d4782e87-ce92-44f3-a71a-d74e1a290843)
 * [기하와 벡터](ae30-d558-c640-bca1-d130.md)
 
@@ -38,3 +35,9 @@
 * [20\_B\_Determinant\_Geometrical Analysis](20b-determinant-geometrical-analysis.md)
 * [21\_고유값\_고유벡터](21ace0-c720-ac12-ace0-c720-bca1-d130.md)
 
+
+## 참고 
+
+* [References](references.md)
+* [GLOSSARY.md](glossary.md)
+* [ref01\_Hyperplane\_초평면](ref01hyperplane-cd08-d3c9-ba74.md)
